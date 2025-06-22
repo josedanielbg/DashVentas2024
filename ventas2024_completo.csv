@@ -5,727 +5,727 @@ Fecha,Producto,Precio,Unidades Vendidas,Vendedor,Ingresos
 2024-01-01,Avena en Hojuelas 500g,3929,23,Andrea,90367
 2024-01-01,Leche Alquería 1L,4423,19,Laura,84037
 2024-01-01,Azúcar Mayagüez 1kg,3428,1,Ramiro,3428
-2024-01-02,Leche Alquería 1L,4343,13,Carlos,56459
-2024-01-02,Azúcar Mayagüez 1kg,3212,12,Laura,38544
-2024-01-02,Pan Integral Bimbo 460g,8140,24,Andrea,195360
-2024-01-02,Frijol Cargamanto 500g,5770,13,Carlos,75010
-2024-01-02,Frijol Cargamanto 500g,5897,26,Carlos,153322
-2024-01-02,Arroz Diana X 1 Libra,2449,24,Carlos,58776
-2024-01-02,Pan Integral Bimbo 460g,7413,23,Carlos,170499
-2024-01-02,Avena en Hojuelas 500g,3792,16,Carlos,60672
-2024-01-02,Leche Alquería 1L,4374,27,Carlos,118098
-2024-01-02,Azúcar Mayagüez 1kg,3245,28,Carlos,90860
-2024-01-02,Frijol Cargamanto 500g,5977,12,Andrea,71724
-2024-01-02,Arroz Diana X 1 Libra,2385,21,Andrea,50085
-2024-01-02,Pan Integral Bimbo 460g,7931,16,Andrea,126896
-2024-01-02,Avena en Hojuelas 500g,4007,12,Andrea,48084
-2024-01-02,Leche Alquería 1L,4505,22,Andrea,99110
-2024-01-02,Azúcar Mayagüez 1kg,3375,11,Andrea,37125
-2024-01-02,Frijol Cargamanto 500g,6100,24,Laura,146400
-2024-01-02,Arroz Diana X 1 Libra,2361,19,Laura,44859
-2024-01-02,Pan Integral Bimbo 460g,8089,8,Laura,64712
-2024-01-02,Avena en Hojuelas 500g,4077,28,Laura,114156
-2024-01-02,Leche Alquería 1L,4451,15,Laura,66765
-2024-01-02,Azúcar Mayagüez 1kg,3273,2,Laura,6546
-2024-01-02,Frijol Cargamanto 500g,6124,22,Ramiro,134728
-2024-01-02,Arroz Diana X 1 Libra,2462,16,Ramiro,39392
-2024-01-02,Pan Integral Bimbo 460g,7360,13,Ramiro,95680
-2024-01-02,Avena en Hojuelas 500g,3778,26,Ramiro,98228
-2024-01-02,Leche Alquería 1L,4332,12,Ramiro,51984
-2024-01-02,Azúcar Mayagüez 1kg,3208,11,Ramiro,35288
-2024-01-03,Frijol Cargamanto 500g,5580,11,Carlos,61380
-2024-01-03,Arroz Diana X 1 Libra,2476,19,Carlos,47044
-2024-01-03,Pan Integral Bimbo 460g,7861,7,Carlos,55027
-2024-01-03,Avena en Hojuelas 500g,3799,8,Carlos,30392
-2024-01-03,Leche Alquería 1L,4481,15,Carlos,67215
-2024-01-03,Azúcar Mayagüez 1kg,3402,22,Carlos,74844
-2024-01-03,Frijol Cargamanto 500g,5606,24,Andrea,134544
-2024-01-03,Arroz Diana X 1 Libra,2284,22,Andrea,50248
-2024-01-03,Pan Integral Bimbo 460g,7594,20,Andrea,151880
-2024-01-03,Avena en Hojuelas 500g,3807,10,Andrea,38070
-2024-01-03,Leche Alquería 1L,4578,25,Andrea,114450
-2024-01-03,Azúcar Mayagüez 1kg,3341,13,Andrea,43433
-2024-01-03,Frijol Cargamanto 500g,5972,25,Laura,149300
-2024-01-03,Arroz Diana X 1 Libra,2483,10,Laura,24830
-2024-01-03,Pan Integral Bimbo 460g,7897,29,Laura,229013
-2024-01-03,Avena en Hojuelas 500g,3986,14,Laura,55804
-2024-01-03,Leche Alquería 1L,4233,10,Laura,42330
-2024-01-03,Azúcar Mayagüez 1kg,3342,9,Laura,30078
-2024-01-03,Frijol Cargamanto 500g,6044,25,Ramiro,151100
-2024-01-03,Arroz Diana X 1 Libra,2273,3,Ramiro,6819
-2024-01-03,Pan Integral Bimbo 460g,7814,23,Ramiro,179722
-2024-01-03,Avena en Hojuelas 500g,3734,3,Ramiro,11202
-2024-01-03,Leche Alquería 1L,4403,24,Ramiro,105672
-2024-01-03,Azúcar Mayagüez 1kg,3451,28,Ramiro,96628
-2024-01-04,Frijol Cargamanto 500g,5954,19,Carlos,113126
-2024-01-04,Arroz Diana X 1 Libra,2432,3,Carlos,7296
-2024-01-04,Pan Integral Bimbo 460g,7499,7,Carlos,52493
-2024-01-04,Avena en Hojuelas 500g,4049,6,Carlos,24294
-2024-01-04,Leche Alquería 1L,4350,26,Carlos,113100
-2024-01-04,Azúcar Mayagüez 1kg,3426,11,Carlos,37686
-2024-01-04,Frijol Cargamanto 500g,5835,7,Andrea,40845
-2024-01-04,Arroz Diana X 1 Libra,2293,21,Andrea,48153
-2024-01-04,Pan Integral Bimbo 460g,7909,10,Andrea,79090
-2024-01-04,Avena en Hojuelas 500g,3735,16,Andrea,59760
-2024-01-04,Leche Alquería 1L,4599,24,Andrea,110376
-2024-01-04,Azúcar Mayagüez 1kg,3381,8,Andrea,27048
-2024-01-04,Frijol Cargamanto 500g,5836,18,Laura,105048
-2024-01-04,Arroz Diana X 1 Libra,2472,7,Laura,17304
-2024-01-04,Pan Integral Bimbo 460g,7988,19,Laura,151772
-2024-01-04,Avena en Hojuelas 500g,3782,22,Laura,83204
-2024-01-04,Leche Alquería 1L,4455,13,Laura,57915
-2024-01-04,Azúcar Mayagüez 1kg,3343,8,Laura,26744
-2024-01-04,Frijol Cargamanto 500g,5783,15,Ramiro,86745
-2024-01-04,Arroz Diana X 1 Libra,2444,29,Ramiro,70876
-2024-01-04,Pan Integral Bimbo 460g,7870,2,Ramiro,15740
-2024-01-04,Avena en Hojuelas 500g,3757,28,Ramiro,105196
-2024-01-04,Leche Alquería 1L,4398,3,Ramiro,13194
-2024-01-04,Azúcar Mayagüez 1kg,3371,16,Ramiro,53936
-2024-01-05,Frijol Cargamanto 500g,6079,4,Carlos,24316
-2024-01-05,Arroz Diana X 1 Libra,2317,5,Carlos,11585
-2024-01-05,Pan Integral Bimbo 460g,7975,15,Carlos,119625
-2024-01-05,Avena en Hojuelas 500g,3804,14,Carlos,53256
-2024-01-05,Leche Alquería 1L,4448,15,Carlos,66720
-2024-01-05,Azúcar Mayagüez 1kg,3320,2,Carlos,6640
-2024-01-05,Frijol Cargamanto 500g,5931,25,Andrea,148275
-2024-01-05,Arroz Diana X 1 Libra,2338,2,Andrea,4676
-2024-01-05,Pan Integral Bimbo 460g,7537,17,Andrea,128129
-2024-01-05,Avena en Hojuelas 500g,3904,7,Andrea,27328
-2024-01-05,Leche Alquería 1L,4489,9,Andrea,40401
-2024-01-05,Azúcar Mayagüez 1kg,3437,28,Andrea,96236
-2024-01-05,Frijol Cargamanto 500g,6101,5,Laura,30505
-2024-01-05,Arroz Diana X 1 Libra,2376,22,Laura,52272
-2024-01-05,Pan Integral Bimbo 460g,7565,1,Laura,7565
-2024-01-05,Avena en Hojuelas 500g,3918,20,Laura,78360
-2024-01-05,Leche Alquería 1L,4220,21,Laura,88620
-2024-01-05,Azúcar Mayagüez 1kg,3189,28,Laura,89292
-2024-01-05,Frijol Cargamanto 500g,5901,29,Ramiro,171129
-2024-01-05,Arroz Diana X 1 Libra,2355,19,Ramiro,44745
-2024-01-05,Pan Integral Bimbo 460g,7450,11,Ramiro,81950
-2024-01-05,Avena en Hojuelas 500g,3975,29,Ramiro,115275
-2024-01-05,Leche Alquería 1L,4422,6,Ramiro,26532
-2024-01-05,Azúcar Mayagüez 1kg,3398,12,Ramiro,40776
-2024-01-06,Frijol Cargamanto 500g,5885,18,Carlos,105930
-2024-01-06,Arroz Diana X 1 Libra,2336,7,Carlos,16352
-2024-01-06,Pan Integral Bimbo 460g,7812,22,Carlos,171864
-2024-01-06,Avena en Hojuelas 500g,4085,11,Carlos,44935
-2024-01-06,Leche Alquería 1L,4372,25,Carlos,109300
-2024-01-06,Azúcar Mayagüez 1kg,3184,12,Carlos,38208
-2024-01-06,Frijol Cargamanto 500g,5999,8,Andrea,47992
-2024-01-06,Arroz Diana X 1 Libra,2348,12,Andrea,28176
-2024-01-06,Pan Integral Bimbo 460g,7513,21,Andrea,157773
-2024-01-06,Avena en Hojuelas 500g,3837,9,Andrea,34533
-2024-01-06,Leche Alquería 1L,4588,5,Andrea,22940
-2024-01-06,Azúcar Mayagüez 1kg,3427,6,Andrea,20562
-2024-01-06,Frijol Cargamanto 500g,5661,29,Laura,164169
-2024-01-06,Arroz Diana X 1 Libra,2292,23,Laura,52716
-2024-01-06,Pan Integral Bimbo 460g,7408,8,Laura,59264
-2024-01-06,Avena en Hojuelas 500g,3865,18,Laura,69570
-2024-01-06,Leche Alquería 1L,4272,22,Laura,93984
-2024-01-06,Azúcar Mayagüez 1kg,3249,10,Laura,32490
-2024-01-06,Frijol Cargamanto 500g,5975,2,Ramiro,11950
-2024-01-06,Arroz Diana X 1 Libra,2285,26,Ramiro,59410
-2024-01-06,Pan Integral Bimbo 460g,7429,12,Ramiro,89148
-2024-01-06,Avena en Hojuelas 500g,3738,15,Ramiro,56070
-2024-01-06,Leche Alquería 1L,4238,9,Ramiro,38142
-2024-01-06,Azúcar Mayagüez 1kg,3421,24,Ramiro,82104
-2024-01-07,Frijol Cargamanto 500g,5886,18,Carlos,105948
-2024-01-07,Arroz Diana X 1 Libra,2505,8,Carlos,20040
-2024-01-07,Pan Integral Bimbo 460g,7583,21,Carlos,159243
-2024-01-07,Avena en Hojuelas 500g,3762,26,Carlos,97812
-2024-01-07,Leche Alquería 1L,4374,18,Carlos,78732
-2024-01-07,Azúcar Mayagüez 1kg,3460,16,Carlos,55360
-2024-01-07,Frijol Cargamanto 500g,5978,8,Andrea,47824
-2024-01-07,Arroz Diana X 1 Libra,2317,5,Andrea,11585
-2024-01-07,Pan Integral Bimbo 460g,7474,24,Andrea,179376
-2024-01-07,Avena en Hojuelas 500g,4057,6,Andrea,24342
-2024-01-07,Leche Alquería 1L,4477,13,Andrea,58201
-2024-01-07,Azúcar Mayagüez 1kg,3178,14,Andrea,44492
-2024-01-07,Frijol Cargamanto 500g,5799,6,Laura,34794
-2024-01-07,Arroz Diana X 1 Libra,2377,3,Laura,7131
-2024-01-07,Pan Integral Bimbo 460g,7842,5,Laura,39210
-2024-01-07,Avena en Hojuelas 500g,4041,27,Laura,109107
-2024-01-07,Leche Alquería 1L,4438,9,Laura,39942
-2024-01-07,Azúcar Mayagüez 1kg,3322,15,Laura,49830
-2024-01-07,Frijol Cargamanto 500g,5751,26,Ramiro,149526
-2024-01-07,Arroz Diana X 1 Libra,2353,13,Ramiro,30589
-2024-01-07,Pan Integral Bimbo 460g,7528,17,Ramiro,127976
-2024-01-07,Avena en Hojuelas 500g,3848,14,Ramiro,53872
-2024-01-07,Leche Alquería 1L,4181,23,Ramiro,96163
-2024-01-07,Azúcar Mayagüez 1kg,3296,9,Ramiro,29664
-2024-01-08,Frijol Cargamanto 500g,5692,2,Carlos,11384
-2024-01-08,Arroz Diana X 1 Libra,2301,16,Carlos,36816
-2024-01-08,Pan Integral Bimbo 460g,7588,23,Carlos,174524
-2024-01-08,Avena en Hojuelas 500g,3823,17,Carlos,64991
-2024-01-08,Leche Alquería 1L,4169,29,Carlos,120901
-2024-01-08,Azúcar Mayagüez 1kg,3289,9,Carlos,29601
-2024-01-08,Frijol Cargamanto 500g,5736,23,Andrea,131928
-2024-01-08,Arroz Diana X 1 Libra,2498,8,Andrea,19984
-2024-01-08,Pan Integral Bimbo 460g,7365,10,Andrea,73650
-2024-01-08,Avena en Hojuelas 500g,3758,2,Andrea,7516
-2024-01-08,Leche Alquería 1L,4313,4,Andrea,17252
-2024-01-08,Azúcar Mayagüez 1kg,3417,12,Andrea,41004
-2024-01-08,Frijol Cargamanto 500g,5821,16,Laura,93136
-2024-01-08,Arroz Diana X 1 Libra,2411,18,Laura,43398
-2024-01-08,Pan Integral Bimbo 460g,7636,17,Laura,129812
-2024-01-08,Avena en Hojuelas 500g,3824,20,Laura,76480
-2024-01-08,Leche Alquería 1L,4476,17,Laura,76092
-2024-01-08,Azúcar Mayagüez 1kg,3442,27,Laura,92934
-2024-01-08,Frijol Cargamanto 500g,5958,17,Ramiro,101286
-2024-01-08,Arroz Diana X 1 Libra,2313,19,Ramiro,43947
-2024-01-08,Pan Integral Bimbo 460g,7981,1,Ramiro,7981
-2024-01-08,Avena en Hojuelas 500g,3852,4,Ramiro,15408
-2024-01-08,Leche Alquería 1L,4184,24,Ramiro,100416
-2024-01-08,Azúcar Mayagüez 1kg,3372,28,Ramiro,94416
-2024-01-09,Frijol Cargamanto 500g,5625,27,Carlos,151875
-2024-01-09,Arroz Diana X 1 Libra,2472,17,Carlos,42024
-2024-01-09,Pan Integral Bimbo 460g,7896,20,Carlos,157920
-2024-01-09,Avena en Hojuelas 500g,3791,10,Carlos,37910
-2024-01-09,Leche Alquería 1L,4372,15,Carlos,65580
-2024-01-09,Azúcar Mayagüez 1kg,3391,8,Carlos,27128
-2024-01-09,Frijol Cargamanto 500g,6137,11,Andrea,67507
-2024-01-09,Arroz Diana X 1 Libra,2316,5,Andrea,11580
-2024-01-09,Pan Integral Bimbo 460g,8105,28,Andrea,226940
-2024-01-09,Avena en Hojuelas 500g,3939,6,Andrea,23634
-2024-01-09,Leche Alquería 1L,4323,11,Andrea,47553
-2024-01-09,Azúcar Mayagüez 1kg,3267,26,Andrea,84942
-2024-01-09,Frijol Cargamanto 500g,5910,22,Laura,130020
-2024-01-09,Arroz Diana X 1 Libra,2488,17,Laura,42296
-2024-01-09,Pan Integral Bimbo 460g,7805,12,Laura,93660
-2024-01-09,Avena en Hojuelas 500g,3740,4,Laura,14960
-2024-01-09,Leche Alquería 1L,4493,12,Laura,53916
-2024-01-09,Azúcar Mayagüez 1kg,3285,29,Laura,95265
-2024-01-09,Frijol Cargamanto 500g,5858,26,Ramiro,152308
-2024-01-09,Arroz Diana X 1 Libra,2499,29,Ramiro,72471
-2024-01-09,Pan Integral Bimbo 460g,7589,27,Ramiro,204903
-2024-01-09,Avena en Hojuelas 500g,3757,21,Ramiro,78897
-2024-01-09,Leche Alquería 1L,4298,2,Ramiro,8596
-2024-01-09,Azúcar Mayagüez 1kg,3272,6,Ramiro,19632
-2024-01-10,Frijol Cargamanto 500g,5956,29,Carlos,172724
-2024-01-10,Arroz Diana X 1 Libra,2303,7,Carlos,16121
-2024-01-10,Pan Integral Bimbo 460g,7964,5,Carlos,39820
-2024-01-10,Avena en Hojuelas 500g,3836,22,Carlos,84392
-2024-01-10,Leche Alquería 1L,4202,18,Carlos,75636
-2024-01-10,Azúcar Mayagüez 1kg,3418,2,Carlos,6836
-2024-01-10,Frijol Cargamanto 500g,5974,23,Andrea,137402
-2024-01-10,Arroz Diana X 1 Libra,2461,18,Andrea,44298
-2024-01-10,Pan Integral Bimbo 460g,7520,6,Andrea,45120
-2024-01-10,Avena en Hojuelas 500g,3758,9,Andrea,33822
-2024-01-10,Leche Alquería 1L,4509,19,Andrea,85671
-2024-01-10,Azúcar Mayagüez 1kg,3177,1,Andrea,3177
-2024-01-10,Frijol Cargamanto 500g,5967,25,Laura,149175
-2024-01-10,Arroz Diana X 1 Libra,2374,15,Laura,35610
-2024-01-10,Pan Integral Bimbo 460g,7818,16,Laura,125088
-2024-01-10,Avena en Hojuelas 500g,3944,15,Laura,59160
-2024-01-10,Leche Alquería 1L,4544,29,Laura,131776
-2024-01-10,Azúcar Mayagüez 1kg,3374,23,Laura,77602
-2024-01-10,Frijol Cargamanto 500g,6114,16,Ramiro,97824
-2024-01-10,Arroz Diana X 1 Libra,2432,11,Ramiro,26752
-2024-01-10,Pan Integral Bimbo 460g,7887,14,Ramiro,110418
-2024-01-10,Avena en Hojuelas 500g,4045,26,Ramiro,105170
-2024-01-10,Leche Alquería 1L,4219,3,Ramiro,12657
-2024-01-10,Azúcar Mayagüez 1kg,3439,6,Ramiro,20634
-2024-01-11,Frijol Cargamanto 500g,6003,7,Carlos,42021
-2024-01-11,Arroz Diana X 1 Libra,2443,6,Carlos,14658
-2024-01-11,Pan Integral Bimbo 460g,8048,18,Carlos,144864
-2024-01-11,Avena en Hojuelas 500g,3961,29,Carlos,114869
-2024-01-11,Leche Alquería 1L,4448,26,Carlos,115648
-2024-01-11,Azúcar Mayagüez 1kg,3275,23,Carlos,75325
-2024-01-11,Frijol Cargamanto 500g,6063,5,Andrea,30315
-2024-01-11,Arroz Diana X 1 Libra,2502,27,Andrea,67554
-2024-01-11,Pan Integral Bimbo 460g,7602,15,Andrea,114030
-2024-01-11,Avena en Hojuelas 500g,3873,27,Andrea,104571
-2024-01-11,Leche Alquería 1L,4207,23,Andrea,96761
-2024-01-11,Azúcar Mayagüez 1kg,3387,27,Andrea,91449
-2024-01-11,Frijol Cargamanto 500g,5958,26,Laura,154908
-2024-01-11,Arroz Diana X 1 Libra,2498,25,Laura,62450
-2024-01-11,Pan Integral Bimbo 460g,7764,12,Laura,93168
-2024-01-11,Avena en Hojuelas 500g,4055,7,Laura,28385
-2024-01-11,Leche Alquería 1L,4294,9,Laura,38646
-2024-01-11,Azúcar Mayagüez 1kg,3385,23,Laura,77855
-2024-01-11,Frijol Cargamanto 500g,5963,18,Ramiro,107334
-2024-01-11,Arroz Diana X 1 Libra,2445,26,Ramiro,63570
-2024-01-11,Pan Integral Bimbo 460g,7531,2,Ramiro,15062
-2024-01-11,Avena en Hojuelas 500g,3734,2,Ramiro,7468
-2024-01-11,Leche Alquería 1L,4229,14,Ramiro,59206
-2024-01-11,Azúcar Mayagüez 1kg,3194,18,Ramiro,57492
-2024-01-12,Frijol Cargamanto 500g,5668,23,Carlos,130364
-2024-01-12,Arroz Diana X 1 Libra,2493,14,Carlos,34902
-2024-01-12,Pan Integral Bimbo 460g,7937,28,Carlos,222236
-2024-01-12,Avena en Hojuelas 500g,3941,6,Carlos,23646
-2024-01-12,Leche Alquería 1L,4492,1,Carlos,4492
-2024-01-12,Azúcar Mayagüez 1kg,3340,17,Carlos,56780
-2024-01-12,Frijol Cargamanto 500g,5639,23,Andrea,129697
-2024-01-12,Arroz Diana X 1 Libra,2493,4,Andrea,9972
-2024-01-12,Pan Integral Bimbo 460g,7838,8,Andrea,62704
-2024-01-12,Avena en Hojuelas 500g,3859,27,Andrea,104193
-2024-01-12,Leche Alquería 1L,4237,5,Andrea,21185
-2024-01-12,Azúcar Mayagüez 1kg,3373,29,Andrea,97817
-2024-01-12,Frijol Cargamanto 500g,6000,26,Laura,156000
-2024-01-12,Arroz Diana X 1 Libra,2432,2,Laura,4864
-2024-01-12,Pan Integral Bimbo 460g,7490,18,Laura,134820
-2024-01-12,Avena en Hojuelas 500g,3768,17,Laura,64056
-2024-01-12,Leche Alquería 1L,4396,29,Laura,127484
-2024-01-12,Azúcar Mayagüez 1kg,3363,24,Laura,80712
-2024-01-12,Frijol Cargamanto 500g,5609,9,Ramiro,50481
-2024-01-12,Arroz Diana X 1 Libra,2469,10,Ramiro,24690
-2024-01-12,Pan Integral Bimbo 460g,8096,12,Ramiro,97152
-2024-01-12,Avena en Hojuelas 500g,4114,7,Ramiro,28798
-2024-01-12,Leche Alquería 1L,4425,10,Ramiro,44250
-2024-01-12,Azúcar Mayagüez 1kg,3329,10,Ramiro,33290
-2024-01-13,Frijol Cargamanto 500g,5912,15,Carlos,88680
-2024-01-13,Arroz Diana X 1 Libra,2422,8,Carlos,19376
-2024-01-13,Pan Integral Bimbo 460g,7989,1,Carlos,7989
-2024-01-13,Avena en Hojuelas 500g,3765,10,Carlos,37650
-2024-01-13,Leche Alquería 1L,4348,9,Carlos,39132
-2024-01-13,Azúcar Mayagüez 1kg,3466,9,Carlos,31194
-2024-01-13,Frijol Cargamanto 500g,5713,1,Andrea,5713
-2024-01-13,Arroz Diana X 1 Libra,2454,10,Andrea,24540
-2024-01-13,Pan Integral Bimbo 460g,7497,5,Andrea,37485
-2024-01-13,Avena en Hojuelas 500g,3948,3,Andrea,11844
-2024-01-13,Leche Alquería 1L,4436,28,Andrea,124208
-2024-01-13,Azúcar Mayagüez 1kg,3349,9,Andrea,30141
-2024-01-13,Frijol Cargamanto 500g,6116,18,Laura,110088
-2024-01-13,Arroz Diana X 1 Libra,2360,23,Laura,54280
-2024-01-13,Pan Integral Bimbo 460g,7816,22,Laura,171952
-2024-01-13,Avena en Hojuelas 500g,4007,26,Laura,104182
-2024-01-13,Leche Alquería 1L,4564,23,Laura,104972
-2024-01-13,Azúcar Mayagüez 1kg,3326,20,Laura,66520
-2024-01-13,Frijol Cargamanto 500g,6051,6,Ramiro,36306
-2024-01-13,Arroz Diana X 1 Libra,2427,16,Ramiro,38832
-2024-01-13,Pan Integral Bimbo 460g,7944,28,Ramiro,222432
-2024-01-13,Avena en Hojuelas 500g,3842,18,Ramiro,69156
-2024-01-13,Leche Alquería 1L,4599,17,Ramiro,78183
-2024-01-13,Azúcar Mayagüez 1kg,3456,19,Ramiro,65664
-2024-01-14,Frijol Cargamanto 500g,6093,5,Carlos,30465
-2024-01-14,Arroz Diana X 1 Libra,2282,4,Carlos,9128
-2024-01-14,Pan Integral Bimbo 460g,7382,2,Carlos,14764
-2024-01-14,Avena en Hojuelas 500g,4087,2,Carlos,8174
-2024-01-14,Leche Alquería 1L,4240,19,Carlos,80560
-2024-01-14,Azúcar Mayagüez 1kg,3382,11,Carlos,37202
-2024-01-14,Frijol Cargamanto 500g,5819,11,Andrea,64009
-2024-01-14,Arroz Diana X 1 Libra,2450,19,Andrea,46550
-2024-01-14,Pan Integral Bimbo 460g,7780,10,Andrea,77800
-2024-01-14,Avena en Hojuelas 500g,3821,4,Andrea,15284
-2024-01-14,Leche Alquería 1L,4203,24,Andrea,100872
-2024-01-14,Azúcar Mayagüez 1kg,3255,7,Andrea,22785
-2024-01-14,Frijol Cargamanto 500g,5913,5,Laura,29565
-2024-01-14,Arroz Diana X 1 Libra,2440,17,Laura,41480
-2024-01-14,Pan Integral Bimbo 460g,7423,28,Laura,207844
-2024-01-14,Avena en Hojuelas 500g,4072,10,Laura,40720
-2024-01-14,Leche Alquería 1L,4513,1,Laura,4513
-2024-01-14,Azúcar Mayagüez 1kg,3446,27,Laura,93042
-2024-01-14,Frijol Cargamanto 500g,5848,9,Ramiro,52632
-2024-01-14,Arroz Diana X 1 Libra,2396,6,Ramiro,14376
-2024-01-14,Pan Integral Bimbo 460g,7842,22,Ramiro,172524
-2024-01-14,Avena en Hojuelas 500g,3914,5,Ramiro,19570
-2024-01-14,Leche Alquería 1L,4252,11,Ramiro,46772
-2024-01-14,Azúcar Mayagüez 1kg,3411,11,Ramiro,37521
-2024-01-15,Frijol Cargamanto 500g,5645,18,Carlos,101610
-2024-01-15,Arroz Diana X 1 Libra,2455,13,Carlos,31915
-2024-01-15,Pan Integral Bimbo 460g,7916,17,Carlos,134572
-2024-01-15,Avena en Hojuelas 500g,3874,14,Carlos,54236
-2024-01-15,Leche Alquería 1L,4577,4,Carlos,18308
-2024-01-15,Azúcar Mayagüez 1kg,3328,9,Carlos,29952
-2024-01-15,Frijol Cargamanto 500g,5750,2,Andrea,11500
-2024-01-15,Arroz Diana X 1 Libra,2376,15,Andrea,35640
-2024-01-15,Pan Integral Bimbo 460g,7832,26,Andrea,203632
-2024-01-15,Avena en Hojuelas 500g,3784,25,Andrea,94600
-2024-01-15,Leche Alquería 1L,4226,10,Andrea,42260
-2024-01-15,Azúcar Mayagüez 1kg,3188,22,Andrea,70136
-2024-01-15,Frijol Cargamanto 500g,5835,8,Laura,46680
-2024-01-15,Arroz Diana X 1 Libra,2473,27,Laura,66771
-2024-01-15,Pan Integral Bimbo 460g,7540,29,Laura,218660
-2024-01-15,Avena en Hojuelas 500g,3757,5,Laura,18785
-2024-01-15,Leche Alquería 1L,4470,15,Laura,67050
-2024-01-15,Azúcar Mayagüez 1kg,3440,25,Laura,86000
-2024-01-15,Frijol Cargamanto 500g,5611,17,Ramiro,95387
-2024-01-15,Arroz Diana X 1 Libra,2293,23,Ramiro,52739
-2024-01-15,Pan Integral Bimbo 460g,7392,16,Ramiro,118272
-2024-01-15,Avena en Hojuelas 500g,4024,18,Ramiro,72432
-2024-01-15,Leche Alquería 1L,4476,7,Ramiro,31332
-2024-01-15,Azúcar Mayagüez 1kg,3232,25,Ramiro,80800
-2024-01-16,Frijol Cargamanto 500g,5746,17,Carlos,97682
-2024-01-16,Arroz Diana X 1 Libra,2287,1,Carlos,2287
-2024-01-16,Pan Integral Bimbo 460g,7522,29,Carlos,218138
-2024-01-16,Avena en Hojuelas 500g,3954,6,Carlos,23724
-2024-01-16,Leche Alquería 1L,4569,25,Carlos,114225
-2024-01-16,Azúcar Mayagüez 1kg,3188,14,Carlos,44632
-2024-01-16,Frijol Cargamanto 500g,6030,12,Andrea,72360
-2024-01-16,Arroz Diana X 1 Libra,2438,25,Andrea,60950
-2024-01-16,Pan Integral Bimbo 460g,8000,22,Andrea,176000
-2024-01-16,Avena en Hojuelas 500g,3745,23,Andrea,86135
-2024-01-16,Leche Alquería 1L,4191,6,Andrea,25146
-2024-01-16,Azúcar Mayagüez 1kg,3240,9,Andrea,29160
-2024-01-16,Frijol Cargamanto 500g,5573,1,Laura,5573
-2024-01-16,Arroz Diana X 1 Libra,2381,13,Laura,30953
-2024-01-16,Pan Integral Bimbo 460g,7495,8,Laura,59960
-2024-01-16,Avena en Hojuelas 500g,3738,9,Laura,33642
-2024-01-16,Leche Alquería 1L,4214,20,Laura,84280
-2024-01-16,Azúcar Mayagüez 1kg,3158,26,Laura,82108
-2024-01-16,Frijol Cargamanto 500g,5593,18,Ramiro,100674
-2024-01-16,Arroz Diana X 1 Libra,2381,8,Ramiro,19048
-2024-01-16,Pan Integral Bimbo 460g,7635,24,Ramiro,183240
-2024-01-16,Avena en Hojuelas 500g,4046,23,Ramiro,93058
-2024-01-16,Leche Alquería 1L,4539,12,Ramiro,54468
-2024-01-16,Azúcar Mayagüez 1kg,3161,16,Ramiro,50576
-2024-01-17,Frijol Cargamanto 500g,5980,9,Carlos,53820
-2024-01-17,Arroz Diana X 1 Libra,2318,27,Carlos,62586
-2024-01-17,Pan Integral Bimbo 460g,7911,29,Carlos,229419
-2024-01-17,Avena en Hojuelas 500g,3814,7,Carlos,26698
-2024-01-17,Leche Alquería 1L,4298,29,Carlos,124642
-2024-01-17,Azúcar Mayagüez 1kg,3256,20,Carlos,65120
-2024-01-17,Frijol Cargamanto 500g,5825,29,Andrea,168925
-2024-01-17,Arroz Diana X 1 Libra,2316,26,Andrea,60216
-2024-01-17,Pan Integral Bimbo 460g,7486,27,Andrea,202122
-2024-01-17,Avena en Hojuelas 500g,3884,21,Andrea,81564
-2024-01-17,Leche Alquería 1L,4297,23,Andrea,98831
-2024-01-17,Azúcar Mayagüez 1kg,3178,8,Andrea,25424
-2024-01-17,Frijol Cargamanto 500g,5763,3,Laura,17289
-2024-01-17,Arroz Diana X 1 Libra,2363,21,Laura,49623
-2024-01-17,Pan Integral Bimbo 460g,7931,16,Laura,126896
-2024-01-17,Avena en Hojuelas 500g,3934,14,Laura,55076
-2024-01-17,Leche Alquería 1L,4504,14,Laura,63056
-2024-01-17,Azúcar Mayagüez 1kg,3185,17,Laura,54145
-2024-01-17,Frijol Cargamanto 500g,5884,4,Ramiro,23536
-2024-01-17,Arroz Diana X 1 Libra,2332,27,Ramiro,62964
-2024-01-17,Pan Integral Bimbo 460g,7564,11,Ramiro,83204
-2024-01-17,Avena en Hojuelas 500g,3790,19,Ramiro,72010
-2024-01-17,Leche Alquería 1L,4235,10,Ramiro,42350
-2024-01-17,Azúcar Mayagüez 1kg,3372,23,Ramiro,77556
-2024-01-18,Frijol Cargamanto 500g,5920,8,Carlos,47360
-2024-01-18,Arroz Diana X 1 Libra,2415,13,Carlos,31395
-2024-01-18,Pan Integral Bimbo 460g,7541,8,Carlos,60328
-2024-01-18,Avena en Hojuelas 500g,3916,29,Carlos,113564
-2024-01-18,Leche Alquería 1L,4164,9,Carlos,37476
-2024-01-18,Azúcar Mayagüez 1kg,3162,8,Carlos,25296
-2024-01-18,Frijol Cargamanto 500g,5846,8,Andrea,46768
-2024-01-18,Arroz Diana X 1 Libra,2339,1,Andrea,2339
-2024-01-18,Pan Integral Bimbo 460g,7605,2,Andrea,15210
-2024-01-18,Avena en Hojuelas 500g,3926,19,Andrea,74594
-2024-01-18,Leche Alquería 1L,4385,4,Andrea,17540
-2024-01-18,Azúcar Mayagüez 1kg,3440,6,Andrea,20640
-2024-01-18,Frijol Cargamanto 500g,5602,14,Laura,78428
-2024-01-18,Arroz Diana X 1 Libra,2376,4,Laura,9504
-2024-01-18,Pan Integral Bimbo 460g,7716,19,Laura,146604
-2024-01-18,Avena en Hojuelas 500g,3856,28,Laura,107968
-2024-01-18,Leche Alquería 1L,4246,6,Laura,25476
-2024-01-18,Azúcar Mayagüez 1kg,3473,9,Laura,31257
-2024-01-18,Frijol Cargamanto 500g,5867,10,Ramiro,58670
-2024-01-18,Arroz Diana X 1 Libra,2489,26,Ramiro,64714
-2024-01-18,Pan Integral Bimbo 460g,7382,28,Ramiro,206696
-2024-01-18,Avena en Hojuelas 500g,3967,7,Ramiro,27769
-2024-01-18,Leche Alquería 1L,4331,5,Ramiro,21655
-2024-01-18,Azúcar Mayagüez 1kg,3293,15,Ramiro,49395
-2024-01-19,Frijol Cargamanto 500g,5751,6,Carlos,34506
-2024-01-19,Arroz Diana X 1 Libra,2305,6,Carlos,13830
-2024-01-19,Pan Integral Bimbo 460g,7450,12,Carlos,89400
-2024-01-19,Avena en Hojuelas 500g,3859,14,Carlos,54026
-2024-01-19,Leche Alquería 1L,4411,20,Carlos,88220
-2024-01-19,Azúcar Mayagüez 1kg,3190,16,Carlos,51040
-2024-01-19,Frijol Cargamanto 500g,5909,22,Andrea,129998
-2024-01-19,Arroz Diana X 1 Libra,2415,9,Andrea,21735
-2024-01-19,Pan Integral Bimbo 460g,8008,10,Andrea,80080
-2024-01-19,Avena en Hojuelas 500g,3955,23,Andrea,90965
-2024-01-19,Leche Alquería 1L,4541,16,Andrea,72656
-2024-01-19,Azúcar Mayagüez 1kg,3389,18,Andrea,61002
-2024-01-19,Frijol Cargamanto 500g,6086,9,Laura,54774
-2024-01-19,Arroz Diana X 1 Libra,2393,27,Laura,64611
-2024-01-19,Pan Integral Bimbo 460g,7572,26,Laura,196872
-2024-01-19,Avena en Hojuelas 500g,3738,23,Laura,85974
-2024-01-19,Leche Alquería 1L,4241,16,Laura,67856
-2024-01-19,Azúcar Mayagüez 1kg,3173,15,Laura,47595
-2024-01-19,Frijol Cargamanto 500g,5982,15,Ramiro,89730
-2024-01-19,Arroz Diana X 1 Libra,2347,18,Ramiro,42246
-2024-01-19,Pan Integral Bimbo 460g,7992,2,Ramiro,15984
-2024-01-19,Avena en Hojuelas 500g,3826,27,Ramiro,103302
-2024-01-19,Leche Alquería 1L,4469,16,Ramiro,71504
-2024-01-19,Azúcar Mayagüez 1kg,3309,21,Ramiro,69489
-2024-01-20,Frijol Cargamanto 500g,5902,1,Carlos,5902
-2024-01-20,Arroz Diana X 1 Libra,2293,4,Carlos,9172
-2024-01-20,Pan Integral Bimbo 460g,7897,28,Carlos,221116
-2024-01-20,Avena en Hojuelas 500g,4094,22,Carlos,90068
-2024-01-20,Leche Alquería 1L,4422,24,Carlos,106128
-2024-01-20,Azúcar Mayagüez 1kg,3361,23,Carlos,77303
-2024-01-20,Frijol Cargamanto 500g,6100,1,Andrea,6100
-2024-01-20,Arroz Diana X 1 Libra,2362,27,Andrea,63774
-2024-01-20,Pan Integral Bimbo 460g,7376,29,Andrea,213904
-2024-01-20,Avena en Hojuelas 500g,3787,14,Andrea,53018
-2024-01-20,Leche Alquería 1L,4523,10,Andrea,45230
-2024-01-20,Azúcar Mayagüez 1kg,3341,11,Andrea,36751
-2024-01-20,Frijol Cargamanto 500g,6068,16,Laura,97088
-2024-01-20,Arroz Diana X 1 Libra,2310,23,Laura,53130
-2024-01-20,Pan Integral Bimbo 460g,8020,19,Laura,152380
-2024-01-20,Avena en Hojuelas 500g,4098,24,Laura,98352
-2024-01-20,Leche Alquería 1L,4166,18,Laura,74988
-2024-01-20,Azúcar Mayagüez 1kg,3177,26,Laura,82602
-2024-01-20,Frijol Cargamanto 500g,5606,27,Ramiro,151362
-2024-01-20,Arroz Diana X 1 Libra,2298,14,Ramiro,32172
-2024-01-20,Pan Integral Bimbo 460g,7733,4,Ramiro,30932
-2024-01-20,Avena en Hojuelas 500g,3918,24,Ramiro,94032
-2024-01-20,Leche Alquería 1L,4352,4,Ramiro,17408
-2024-01-20,Azúcar Mayagüez 1kg,3297,14,Ramiro,46158
-2024-01-21,Frijol Cargamanto 500g,5808,7,Carlos,40656
-2024-01-21,Arroz Diana X 1 Libra,2280,13,Carlos,29640
-2024-01-21,Pan Integral Bimbo 460g,7552,3,Carlos,22656
-2024-01-21,Avena en Hojuelas 500g,3974,14,Carlos,55636
-2024-01-21,Leche Alquería 1L,4261,19,Carlos,80959
-2024-01-21,Azúcar Mayagüez 1kg,3187,9,Carlos,28683
-2024-01-21,Frijol Cargamanto 500g,5789,11,Andrea,63679
-2024-01-21,Arroz Diana X 1 Libra,2277,27,Andrea,61479
-2024-01-21,Pan Integral Bimbo 460g,7525,6,Andrea,45150
-2024-01-21,Avena en Hojuelas 500g,3734,17,Andrea,63478
-2024-01-21,Leche Alquería 1L,4486,2,Andrea,8972
-2024-01-21,Azúcar Mayagüez 1kg,3446,16,Andrea,55136
-2024-01-21,Frijol Cargamanto 500g,6057,28,Laura,169596
+2024-01-02,Leche Alquería 1L,4423,13,Carlos,57499
+2024-01-02,Azúcar Mayagüez 1kg,3428,12,Laura,41136
+2024-01-02,Pan Integral Bimbo 460g,7326,24,Andrea,175824
+2024-01-02,Frijol Cargamanto 500g,5938,13,Carlos,77194
+2024-01-02,Frijol Cargamanto 500g,5938,26,Carlos,154388
+2024-01-02,Arroz Diana X 1 Libra,2388,24,Carlos,57312
+2024-01-02,Pan Integral Bimbo 460g,7326,23,Carlos,168498
+2024-01-02,Avena en Hojuelas 500g,3929,16,Carlos,62864
+2024-01-02,Leche Alquería 1L,4423,27,Carlos,119421
+2024-01-02,Azúcar Mayagüez 1kg,3428,28,Carlos,95984
+2024-01-02,Frijol Cargamanto 500g,5938,12,Andrea,71256
+2024-01-02,Arroz Diana X 1 Libra,2388,21,Andrea,50148
+2024-01-02,Pan Integral Bimbo 460g,7326,16,Andrea,117216
+2024-01-02,Avena en Hojuelas 500g,3929,12,Andrea,47148
+2024-01-02,Leche Alquería 1L,4423,22,Andrea,97306
+2024-01-02,Azúcar Mayagüez 1kg,3428,11,Andrea,37708
+2024-01-02,Frijol Cargamanto 500g,5938,24,Laura,142512
+2024-01-02,Arroz Diana X 1 Libra,2388,19,Laura,45372
+2024-01-02,Pan Integral Bimbo 460g,7326,8,Laura,58608
+2024-01-02,Avena en Hojuelas 500g,3929,28,Laura,110012
+2024-01-02,Leche Alquería 1L,4423,15,Laura,66345
+2024-01-02,Azúcar Mayagüez 1kg,3428,2,Laura,6856
+2024-01-02,Frijol Cargamanto 500g,5938,22,Ramiro,130636
+2024-01-02,Arroz Diana X 1 Libra,2388,16,Ramiro,38208
+2024-01-02,Pan Integral Bimbo 460g,7326,13,Ramiro,95238
+2024-01-02,Avena en Hojuelas 500g,3929,26,Ramiro,102154
+2024-01-02,Leche Alquería 1L,4423,12,Ramiro,53076
+2024-01-02,Azúcar Mayagüez 1kg,3428,11,Ramiro,37708
+2024-01-03,Frijol Cargamanto 500g,5938,11,Carlos,65318
+2024-01-03,Arroz Diana X 1 Libra,2388,19,Carlos,45372
+2024-01-03,Pan Integral Bimbo 460g,7326,7,Carlos,51282
+2024-01-03,Avena en Hojuelas 500g,3929,8,Carlos,31432
+2024-01-03,Leche Alquería 1L,4423,15,Carlos,66345
+2024-01-03,Azúcar Mayagüez 1kg,3428,22,Carlos,75416
+2024-01-03,Frijol Cargamanto 500g,5938,24,Andrea,142512
+2024-01-03,Arroz Diana X 1 Libra,2388,22,Andrea,52536
+2024-01-03,Pan Integral Bimbo 460g,7326,20,Andrea,146520
+2024-01-03,Avena en Hojuelas 500g,3929,10,Andrea,39290
+2024-01-03,Leche Alquería 1L,4423,25,Andrea,110575
+2024-01-03,Azúcar Mayagüez 1kg,3428,13,Andrea,44564
+2024-01-03,Frijol Cargamanto 500g,5938,25,Laura,148450
+2024-01-03,Arroz Diana X 1 Libra,2388,10,Laura,23880
+2024-01-03,Pan Integral Bimbo 460g,7326,29,Laura,212454
+2024-01-03,Avena en Hojuelas 500g,3929,14,Laura,55006
+2024-01-03,Leche Alquería 1L,4423,10,Laura,44230
+2024-01-03,Azúcar Mayagüez 1kg,3428,9,Laura,30852
+2024-01-03,Frijol Cargamanto 500g,5938,25,Ramiro,148450
+2024-01-03,Arroz Diana X 1 Libra,2388,3,Ramiro,7164
+2024-01-03,Pan Integral Bimbo 460g,7326,23,Ramiro,168498
+2024-01-03,Avena en Hojuelas 500g,3929,3,Ramiro,11787
+2024-01-03,Leche Alquería 1L,4423,24,Ramiro,106152
+2024-01-03,Azúcar Mayagüez 1kg,3428,28,Ramiro,95984
+2024-01-04,Frijol Cargamanto 500g,5938,19,Carlos,112822
+2024-01-04,Arroz Diana X 1 Libra,2388,3,Carlos,7164
+2024-01-04,Pan Integral Bimbo 460g,7326,7,Carlos,51282
+2024-01-04,Avena en Hojuelas 500g,3929,6,Carlos,23574
+2024-01-04,Leche Alquería 1L,4423,26,Carlos,114998
+2024-01-04,Azúcar Mayagüez 1kg,3428,11,Carlos,37708
+2024-01-04,Frijol Cargamanto 500g,5938,7,Andrea,41566
+2024-01-04,Arroz Diana X 1 Libra,2388,21,Andrea,50148
+2024-01-04,Pan Integral Bimbo 460g,7326,10,Andrea,73260
+2024-01-04,Avena en Hojuelas 500g,3929,16,Andrea,62864
+2024-01-04,Leche Alquería 1L,4423,24,Andrea,106152
+2024-01-04,Azúcar Mayagüez 1kg,3428,8,Andrea,27424
+2024-01-04,Frijol Cargamanto 500g,5938,18,Laura,106884
+2024-01-04,Arroz Diana X 1 Libra,2388,7,Laura,16716
+2024-01-04,Pan Integral Bimbo 460g,7326,19,Laura,139194
+2024-01-04,Avena en Hojuelas 500g,3929,22,Laura,86438
+2024-01-04,Leche Alquería 1L,4423,13,Laura,57499
+2024-01-04,Azúcar Mayagüez 1kg,3428,8,Laura,27424
+2024-01-04,Frijol Cargamanto 500g,5938,15,Ramiro,89070
+2024-01-04,Arroz Diana X 1 Libra,2388,29,Ramiro,69252
+2024-01-04,Pan Integral Bimbo 460g,7326,2,Ramiro,14652
+2024-01-04,Avena en Hojuelas 500g,3929,28,Ramiro,110012
+2024-01-04,Leche Alquería 1L,4423,3,Ramiro,13269
+2024-01-04,Azúcar Mayagüez 1kg,3428,16,Ramiro,54848
+2024-01-05,Frijol Cargamanto 500g,5938,4,Carlos,23752
+2024-01-05,Arroz Diana X 1 Libra,2388,5,Carlos,11940
+2024-01-05,Pan Integral Bimbo 460g,7326,15,Carlos,109890
+2024-01-05,Avena en Hojuelas 500g,3929,14,Carlos,55006
+2024-01-05,Leche Alquería 1L,4423,15,Carlos,66345
+2024-01-05,Azúcar Mayagüez 1kg,3428,2,Carlos,6856
+2024-01-05,Frijol Cargamanto 500g,5938,25,Andrea,148450
+2024-01-05,Arroz Diana X 1 Libra,2388,2,Andrea,4776
+2024-01-05,Pan Integral Bimbo 460g,7326,17,Andrea,124542
+2024-01-05,Avena en Hojuelas 500g,3929,7,Andrea,27503
+2024-01-05,Leche Alquería 1L,4423,9,Andrea,39807
+2024-01-05,Azúcar Mayagüez 1kg,3428,28,Andrea,95984
+2024-01-05,Frijol Cargamanto 500g,5938,5,Laura,29690
+2024-01-05,Arroz Diana X 1 Libra,2388,22,Laura,52536
+2024-01-05,Pan Integral Bimbo 460g,7326,1,Laura,7326
+2024-01-05,Avena en Hojuelas 500g,3929,20,Laura,78580
+2024-01-05,Leche Alquería 1L,4423,21,Laura,92883
+2024-01-05,Azúcar Mayagüez 1kg,3428,28,Laura,95984
+2024-01-05,Frijol Cargamanto 500g,5938,29,Ramiro,172202
+2024-01-05,Arroz Diana X 1 Libra,2388,19,Ramiro,45372
+2024-01-05,Pan Integral Bimbo 460g,7326,11,Ramiro,80586
+2024-01-05,Avena en Hojuelas 500g,3929,29,Ramiro,113941
+2024-01-05,Leche Alquería 1L,4423,6,Ramiro,26538
+2024-01-05,Azúcar Mayagüez 1kg,3428,12,Ramiro,41136
+2024-01-06,Frijol Cargamanto 500g,5938,18,Carlos,106884
+2024-01-06,Arroz Diana X 1 Libra,2388,7,Carlos,16716
+2024-01-06,Pan Integral Bimbo 460g,7326,22,Carlos,161172
+2024-01-06,Avena en Hojuelas 500g,3929,11,Carlos,43219
+2024-01-06,Leche Alquería 1L,4423,25,Carlos,110575
+2024-01-06,Azúcar Mayagüez 1kg,3428,12,Carlos,41136
+2024-01-06,Frijol Cargamanto 500g,5938,8,Andrea,47504
+2024-01-06,Arroz Diana X 1 Libra,2388,12,Andrea,28656
+2024-01-06,Pan Integral Bimbo 460g,7326,21,Andrea,153846
+2024-01-06,Avena en Hojuelas 500g,3929,9,Andrea,35361
+2024-01-06,Leche Alquería 1L,4423,5,Andrea,22115
+2024-01-06,Azúcar Mayagüez 1kg,3428,6,Andrea,20568
+2024-01-06,Frijol Cargamanto 500g,5938,29,Laura,172202
+2024-01-06,Arroz Diana X 1 Libra,2388,23,Laura,54924
+2024-01-06,Pan Integral Bimbo 460g,7326,8,Laura,58608
+2024-01-06,Avena en Hojuelas 500g,3929,18,Laura,70722
+2024-01-06,Leche Alquería 1L,4423,22,Laura,97306
+2024-01-06,Azúcar Mayagüez 1kg,3428,10,Laura,34280
+2024-01-06,Frijol Cargamanto 500g,5938,2,Ramiro,11876
+2024-01-06,Arroz Diana X 1 Libra,2388,26,Ramiro,62088
+2024-01-06,Pan Integral Bimbo 460g,7326,12,Ramiro,87912
+2024-01-06,Avena en Hojuelas 500g,3929,15,Ramiro,58935
+2024-01-06,Leche Alquería 1L,4423,9,Ramiro,39807
+2024-01-06,Azúcar Mayagüez 1kg,3428,24,Ramiro,82272
+2024-01-07,Frijol Cargamanto 500g,5938,18,Carlos,106884
+2024-01-07,Arroz Diana X 1 Libra,2388,8,Carlos,19104
+2024-01-07,Pan Integral Bimbo 460g,7326,21,Carlos,153846
+2024-01-07,Avena en Hojuelas 500g,3929,26,Carlos,102154
+2024-01-07,Leche Alquería 1L,4423,18,Carlos,79614
+2024-01-07,Azúcar Mayagüez 1kg,3428,16,Carlos,54848
+2024-01-07,Frijol Cargamanto 500g,5938,8,Andrea,47504
+2024-01-07,Arroz Diana X 1 Libra,2388,5,Andrea,11940
+2024-01-07,Pan Integral Bimbo 460g,7326,24,Andrea,175824
+2024-01-07,Avena en Hojuelas 500g,3929,6,Andrea,23574
+2024-01-07,Leche Alquería 1L,4423,13,Andrea,57499
+2024-01-07,Azúcar Mayagüez 1kg,3428,14,Andrea,47992
+2024-01-07,Frijol Cargamanto 500g,5938,6,Laura,35628
+2024-01-07,Arroz Diana X 1 Libra,2388,3,Laura,7164
+2024-01-07,Pan Integral Bimbo 460g,7326,5,Laura,36630
+2024-01-07,Avena en Hojuelas 500g,3929,27,Laura,106083
+2024-01-07,Leche Alquería 1L,4423,9,Laura,39807
+2024-01-07,Azúcar Mayagüez 1kg,3428,15,Laura,51420
+2024-01-07,Frijol Cargamanto 500g,5938,26,Ramiro,154388
+2024-01-07,Arroz Diana X 1 Libra,2388,13,Ramiro,31044
+2024-01-07,Pan Integral Bimbo 460g,7326,17,Ramiro,124542
+2024-01-07,Avena en Hojuelas 500g,3929,14,Ramiro,55006
+2024-01-07,Leche Alquería 1L,4423,23,Ramiro,101729
+2024-01-07,Azúcar Mayagüez 1kg,3428,9,Ramiro,30852
+2024-01-08,Frijol Cargamanto 500g,5938,2,Carlos,11876
+2024-01-08,Arroz Diana X 1 Libra,2388,16,Carlos,38208
+2024-01-08,Pan Integral Bimbo 460g,7326,23,Carlos,168498
+2024-01-08,Avena en Hojuelas 500g,3929,17,Carlos,66793
+2024-01-08,Leche Alquería 1L,4423,29,Carlos,128267
+2024-01-08,Azúcar Mayagüez 1kg,3428,9,Carlos,30852
+2024-01-08,Frijol Cargamanto 500g,5938,23,Andrea,136574
+2024-01-08,Arroz Diana X 1 Libra,2388,8,Andrea,19104
+2024-01-08,Pan Integral Bimbo 460g,7326,10,Andrea,73260
+2024-01-08,Avena en Hojuelas 500g,3929,2,Andrea,7858
+2024-01-08,Leche Alquería 1L,4423,4,Andrea,17692
+2024-01-08,Azúcar Mayagüez 1kg,3428,12,Andrea,41136
+2024-01-08,Frijol Cargamanto 500g,5938,16,Laura,95008
+2024-01-08,Arroz Diana X 1 Libra,2388,18,Laura,42984
+2024-01-08,Pan Integral Bimbo 460g,7326,17,Laura,124542
+2024-01-08,Avena en Hojuelas 500g,3929,20,Laura,78580
+2024-01-08,Leche Alquería 1L,4423,17,Laura,75191
+2024-01-08,Azúcar Mayagüez 1kg,3428,27,Laura,92556
+2024-01-08,Frijol Cargamanto 500g,5938,17,Ramiro,100946
+2024-01-08,Arroz Diana X 1 Libra,2388,19,Ramiro,45372
+2024-01-08,Pan Integral Bimbo 460g,7326,1,Ramiro,7326
+2024-01-08,Avena en Hojuelas 500g,3929,4,Ramiro,15716
+2024-01-08,Leche Alquería 1L,4423,24,Ramiro,106152
+2024-01-08,Azúcar Mayagüez 1kg,3428,28,Ramiro,95984
+2024-01-09,Frijol Cargamanto 500g,5938,27,Carlos,160326
+2024-01-09,Arroz Diana X 1 Libra,2388,17,Carlos,40596
+2024-01-09,Pan Integral Bimbo 460g,7326,20,Carlos,146520
+2024-01-09,Avena en Hojuelas 500g,3929,10,Carlos,39290
+2024-01-09,Leche Alquería 1L,4423,15,Carlos,66345
+2024-01-09,Azúcar Mayagüez 1kg,3428,8,Carlos,27424
+2024-01-09,Frijol Cargamanto 500g,5938,11,Andrea,65318
+2024-01-09,Arroz Diana X 1 Libra,2388,5,Andrea,11940
+2024-01-09,Pan Integral Bimbo 460g,7326,28,Andrea,205128
+2024-01-09,Avena en Hojuelas 500g,3929,6,Andrea,23574
+2024-01-09,Leche Alquería 1L,4423,11,Andrea,48653
+2024-01-09,Azúcar Mayagüez 1kg,3428,26,Andrea,89128
+2024-01-09,Frijol Cargamanto 500g,5938,22,Laura,130636
+2024-01-09,Arroz Diana X 1 Libra,2388,17,Laura,40596
+2024-01-09,Pan Integral Bimbo 460g,7326,12,Laura,87912
+2024-01-09,Avena en Hojuelas 500g,3929,4,Laura,15716
+2024-01-09,Leche Alquería 1L,4423,12,Laura,53076
+2024-01-09,Azúcar Mayagüez 1kg,3428,29,Laura,99412
+2024-01-09,Frijol Cargamanto 500g,5938,26,Ramiro,154388
+2024-01-09,Arroz Diana X 1 Libra,2388,29,Ramiro,69252
+2024-01-09,Pan Integral Bimbo 460g,7326,27,Ramiro,197802
+2024-01-09,Avena en Hojuelas 500g,3929,21,Ramiro,82509
+2024-01-09,Leche Alquería 1L,4423,2,Ramiro,8846
+2024-01-09,Azúcar Mayagüez 1kg,3428,6,Ramiro,20568
+2024-01-10,Frijol Cargamanto 500g,5938,29,Carlos,172202
+2024-01-10,Arroz Diana X 1 Libra,2388,7,Carlos,16716
+2024-01-10,Pan Integral Bimbo 460g,7326,5,Carlos,36630
+2024-01-10,Avena en Hojuelas 500g,3929,22,Carlos,86438
+2024-01-10,Leche Alquería 1L,4423,18,Carlos,79614
+2024-01-10,Azúcar Mayagüez 1kg,3428,2,Carlos,6856
+2024-01-10,Frijol Cargamanto 500g,5938,23,Andrea,136574
+2024-01-10,Arroz Diana X 1 Libra,2388,18,Andrea,42984
+2024-01-10,Pan Integral Bimbo 460g,7326,6,Andrea,43956
+2024-01-10,Avena en Hojuelas 500g,3929,9,Andrea,35361
+2024-01-10,Leche Alquería 1L,4423,19,Andrea,84037
+2024-01-10,Azúcar Mayagüez 1kg,3428,1,Andrea,3428
+2024-01-10,Frijol Cargamanto 500g,5938,25,Laura,148450
+2024-01-10,Arroz Diana X 1 Libra,2388,15,Laura,35820
+2024-01-10,Pan Integral Bimbo 460g,7326,16,Laura,117216
+2024-01-10,Avena en Hojuelas 500g,3929,15,Laura,58935
+2024-01-10,Leche Alquería 1L,4423,29,Laura,128267
+2024-01-10,Azúcar Mayagüez 1kg,3428,23,Laura,78844
+2024-01-10,Frijol Cargamanto 500g,5938,16,Ramiro,95008
+2024-01-10,Arroz Diana X 1 Libra,2388,11,Ramiro,26268
+2024-01-10,Pan Integral Bimbo 460g,7326,14,Ramiro,102564
+2024-01-10,Avena en Hojuelas 500g,3929,26,Ramiro,102154
+2024-01-10,Leche Alquería 1L,4423,3,Ramiro,13269
+2024-01-10,Azúcar Mayagüez 1kg,3428,6,Ramiro,20568
+2024-01-11,Frijol Cargamanto 500g,5938,7,Carlos,41566
+2024-01-11,Arroz Diana X 1 Libra,2388,6,Carlos,14328
+2024-01-11,Pan Integral Bimbo 460g,7326,18,Carlos,131868
+2024-01-11,Avena en Hojuelas 500g,3929,29,Carlos,113941
+2024-01-11,Leche Alquería 1L,4423,26,Carlos,114998
+2024-01-11,Azúcar Mayagüez 1kg,3428,23,Carlos,78844
+2024-01-11,Frijol Cargamanto 500g,5938,5,Andrea,29690
+2024-01-11,Arroz Diana X 1 Libra,2388,27,Andrea,64476
+2024-01-11,Pan Integral Bimbo 460g,7326,15,Andrea,109890
+2024-01-11,Avena en Hojuelas 500g,3929,27,Andrea,106083
+2024-01-11,Leche Alquería 1L,4423,23,Andrea,101729
+2024-01-11,Azúcar Mayagüez 1kg,3428,27,Andrea,92556
+2024-01-11,Frijol Cargamanto 500g,5938,26,Laura,154388
+2024-01-11,Arroz Diana X 1 Libra,2388,25,Laura,59700
+2024-01-11,Pan Integral Bimbo 460g,7326,12,Laura,87912
+2024-01-11,Avena en Hojuelas 500g,3929,7,Laura,27503
+2024-01-11,Leche Alquería 1L,4423,9,Laura,39807
+2024-01-11,Azúcar Mayagüez 1kg,3428,23,Laura,78844
+2024-01-11,Frijol Cargamanto 500g,5938,18,Ramiro,106884
+2024-01-11,Arroz Diana X 1 Libra,2388,26,Ramiro,62088
+2024-01-11,Pan Integral Bimbo 460g,7326,2,Ramiro,14652
+2024-01-11,Avena en Hojuelas 500g,3929,2,Ramiro,7858
+2024-01-11,Leche Alquería 1L,4423,14,Ramiro,61922
+2024-01-11,Azúcar Mayagüez 1kg,3428,18,Ramiro,61704
+2024-01-12,Frijol Cargamanto 500g,5938,23,Carlos,136574
+2024-01-12,Arroz Diana X 1 Libra,2388,14,Carlos,33432
+2024-01-12,Pan Integral Bimbo 460g,7326,28,Carlos,205128
+2024-01-12,Avena en Hojuelas 500g,3929,6,Carlos,23574
+2024-01-12,Leche Alquería 1L,4423,1,Carlos,4423
+2024-01-12,Azúcar Mayagüez 1kg,3428,17,Carlos,58276
+2024-01-12,Frijol Cargamanto 500g,5938,23,Andrea,136574
+2024-01-12,Arroz Diana X 1 Libra,2388,4,Andrea,9552
+2024-01-12,Pan Integral Bimbo 460g,7326,8,Andrea,58608
+2024-01-12,Avena en Hojuelas 500g,3929,27,Andrea,106083
+2024-01-12,Leche Alquería 1L,4423,5,Andrea,22115
+2024-01-12,Azúcar Mayagüez 1kg,3428,29,Andrea,99412
+2024-01-12,Frijol Cargamanto 500g,5938,26,Laura,154388
+2024-01-12,Arroz Diana X 1 Libra,2388,2,Laura,4776
+2024-01-12,Pan Integral Bimbo 460g,7326,18,Laura,131868
+2024-01-12,Avena en Hojuelas 500g,3929,17,Laura,66793
+2024-01-12,Leche Alquería 1L,4423,29,Laura,128267
+2024-01-12,Azúcar Mayagüez 1kg,3428,24,Laura,82272
+2024-01-12,Frijol Cargamanto 500g,5938,9,Ramiro,53442
+2024-01-12,Arroz Diana X 1 Libra,2388,10,Ramiro,23880
+2024-01-12,Pan Integral Bimbo 460g,7326,12,Ramiro,87912
+2024-01-12,Avena en Hojuelas 500g,3929,7,Ramiro,27503
+2024-01-12,Leche Alquería 1L,4423,10,Ramiro,44230
+2024-01-12,Azúcar Mayagüez 1kg,3428,10,Ramiro,34280
+2024-01-13,Frijol Cargamanto 500g,5938,15,Carlos,89070
+2024-01-13,Arroz Diana X 1 Libra,2388,8,Carlos,19104
+2024-01-13,Pan Integral Bimbo 460g,7326,1,Carlos,7326
+2024-01-13,Avena en Hojuelas 500g,3929,10,Carlos,39290
+2024-01-13,Leche Alquería 1L,4423,9,Carlos,39807
+2024-01-13,Azúcar Mayagüez 1kg,3428,9,Carlos,30852
+2024-01-13,Frijol Cargamanto 500g,5938,1,Andrea,5938
+2024-01-13,Arroz Diana X 1 Libra,2388,10,Andrea,23880
+2024-01-13,Pan Integral Bimbo 460g,7326,5,Andrea,36630
+2024-01-13,Avena en Hojuelas 500g,3929,3,Andrea,11787
+2024-01-13,Leche Alquería 1L,4423,28,Andrea,123844
+2024-01-13,Azúcar Mayagüez 1kg,3428,9,Andrea,30852
+2024-01-13,Frijol Cargamanto 500g,5938,18,Laura,106884
+2024-01-13,Arroz Diana X 1 Libra,2388,23,Laura,54924
+2024-01-13,Pan Integral Bimbo 460g,7326,22,Laura,161172
+2024-01-13,Avena en Hojuelas 500g,3929,26,Laura,102154
+2024-01-13,Leche Alquería 1L,4423,23,Laura,101729
+2024-01-13,Azúcar Mayagüez 1kg,3428,20,Laura,68560
+2024-01-13,Frijol Cargamanto 500g,5938,6,Ramiro,35628
+2024-01-13,Arroz Diana X 1 Libra,2388,16,Ramiro,38208
+2024-01-13,Pan Integral Bimbo 460g,7326,28,Ramiro,205128
+2024-01-13,Avena en Hojuelas 500g,3929,18,Ramiro,70722
+2024-01-13,Leche Alquería 1L,4423,17,Ramiro,75191
+2024-01-13,Azúcar Mayagüez 1kg,3428,19,Ramiro,65132
+2024-01-14,Frijol Cargamanto 500g,5938,5,Carlos,29690
+2024-01-14,Arroz Diana X 1 Libra,2388,4,Carlos,9552
+2024-01-14,Pan Integral Bimbo 460g,7326,2,Carlos,14652
+2024-01-14,Avena en Hojuelas 500g,3929,2,Carlos,7858
+2024-01-14,Leche Alquería 1L,4423,19,Carlos,84037
+2024-01-14,Azúcar Mayagüez 1kg,3428,11,Carlos,37708
+2024-01-14,Frijol Cargamanto 500g,5938,11,Andrea,65318
+2024-01-14,Arroz Diana X 1 Libra,2388,19,Andrea,45372
+2024-01-14,Pan Integral Bimbo 460g,7326,10,Andrea,73260
+2024-01-14,Avena en Hojuelas 500g,3929,4,Andrea,15716
+2024-01-14,Leche Alquería 1L,4423,24,Andrea,106152
+2024-01-14,Azúcar Mayagüez 1kg,3428,7,Andrea,23996
+2024-01-14,Frijol Cargamanto 500g,5938,5,Laura,29690
+2024-01-14,Arroz Diana X 1 Libra,2388,17,Laura,40596
+2024-01-14,Pan Integral Bimbo 460g,7326,28,Laura,205128
+2024-01-14,Avena en Hojuelas 500g,3929,10,Laura,39290
+2024-01-14,Leche Alquería 1L,4423,1,Laura,4423
+2024-01-14,Azúcar Mayagüez 1kg,3428,27,Laura,92556
+2024-01-14,Frijol Cargamanto 500g,5938,9,Ramiro,53442
+2024-01-14,Arroz Diana X 1 Libra,2388,6,Ramiro,14328
+2024-01-14,Pan Integral Bimbo 460g,7326,22,Ramiro,161172
+2024-01-14,Avena en Hojuelas 500g,3929,5,Ramiro,19645
+2024-01-14,Leche Alquería 1L,4423,11,Ramiro,48653
+2024-01-14,Azúcar Mayagüez 1kg,3428,11,Ramiro,37708
+2024-01-15,Frijol Cargamanto 500g,5938,18,Carlos,106884
+2024-01-15,Arroz Diana X 1 Libra,2388,13,Carlos,31044
+2024-01-15,Pan Integral Bimbo 460g,7326,17,Carlos,124542
+2024-01-15,Avena en Hojuelas 500g,3929,14,Carlos,55006
+2024-01-15,Leche Alquería 1L,4423,4,Carlos,17692
+2024-01-15,Azúcar Mayagüez 1kg,3428,9,Carlos,30852
+2024-01-15,Frijol Cargamanto 500g,5938,2,Andrea,11876
+2024-01-15,Arroz Diana X 1 Libra,2388,15,Andrea,35820
+2024-01-15,Pan Integral Bimbo 460g,7326,26,Andrea,190476
+2024-01-15,Avena en Hojuelas 500g,3929,25,Andrea,98225
+2024-01-15,Leche Alquería 1L,4423,10,Andrea,44230
+2024-01-15,Azúcar Mayagüez 1kg,3428,22,Andrea,75416
+2024-01-15,Frijol Cargamanto 500g,5938,8,Laura,47504
+2024-01-15,Arroz Diana X 1 Libra,2388,27,Laura,64476
+2024-01-15,Pan Integral Bimbo 460g,7326,29,Laura,212454
+2024-01-15,Avena en Hojuelas 500g,3929,5,Laura,19645
+2024-01-15,Leche Alquería 1L,4423,15,Laura,66345
+2024-01-15,Azúcar Mayagüez 1kg,3428,25,Laura,85700
+2024-01-15,Frijol Cargamanto 500g,5938,17,Ramiro,100946
+2024-01-15,Arroz Diana X 1 Libra,2388,23,Ramiro,54924
+2024-01-15,Pan Integral Bimbo 460g,7326,16,Ramiro,117216
+2024-01-15,Avena en Hojuelas 500g,3929,18,Ramiro,70722
+2024-01-15,Leche Alquería 1L,4423,7,Ramiro,30961
+2024-01-15,Azúcar Mayagüez 1kg,3428,25,Ramiro,85700
+2024-01-16,Frijol Cargamanto 500g,5938,17,Carlos,100946
+2024-01-16,Arroz Diana X 1 Libra,2388,1,Carlos,2388
+2024-01-16,Pan Integral Bimbo 460g,7326,29,Carlos,212454
+2024-01-16,Avena en Hojuelas 500g,3929,6,Carlos,23574
+2024-01-16,Leche Alquería 1L,4423,25,Carlos,110575
+2024-01-16,Azúcar Mayagüez 1kg,3428,14,Carlos,47992
+2024-01-16,Frijol Cargamanto 500g,5938,12,Andrea,71256
+2024-01-16,Arroz Diana X 1 Libra,2388,25,Andrea,59700
+2024-01-16,Pan Integral Bimbo 460g,7326,22,Andrea,161172
+2024-01-16,Avena en Hojuelas 500g,3929,23,Andrea,90367
+2024-01-16,Leche Alquería 1L,4423,6,Andrea,26538
+2024-01-16,Azúcar Mayagüez 1kg,3428,9,Andrea,30852
+2024-01-16,Frijol Cargamanto 500g,5938,1,Laura,5938
+2024-01-16,Arroz Diana X 1 Libra,2388,13,Laura,31044
+2024-01-16,Pan Integral Bimbo 460g,7326,8,Laura,58608
+2024-01-16,Avena en Hojuelas 500g,3929,9,Laura,35361
+2024-01-16,Leche Alquería 1L,4423,20,Laura,88460
+2024-01-16,Azúcar Mayagüez 1kg,3428,26,Laura,89128
+2024-01-16,Frijol Cargamanto 500g,5938,18,Ramiro,106884
+2024-01-16,Arroz Diana X 1 Libra,2388,8,Ramiro,19104
+2024-01-16,Pan Integral Bimbo 460g,7326,24,Ramiro,175824
+2024-01-16,Avena en Hojuelas 500g,3929,23,Ramiro,90367
+2024-01-16,Leche Alquería 1L,4423,12,Ramiro,53076
+2024-01-16,Azúcar Mayagüez 1kg,3428,16,Ramiro,54848
+2024-01-17,Frijol Cargamanto 500g,5938,9,Carlos,53442
+2024-01-17,Arroz Diana X 1 Libra,2388,27,Carlos,64476
+2024-01-17,Pan Integral Bimbo 460g,7326,29,Carlos,212454
+2024-01-17,Avena en Hojuelas 500g,3929,7,Carlos,27503
+2024-01-17,Leche Alquería 1L,4423,29,Carlos,128267
+2024-01-17,Azúcar Mayagüez 1kg,3428,20,Carlos,68560
+2024-01-17,Frijol Cargamanto 500g,5938,29,Andrea,172202
+2024-01-17,Arroz Diana X 1 Libra,2388,26,Andrea,62088
+2024-01-17,Pan Integral Bimbo 460g,7326,27,Andrea,197802
+2024-01-17,Avena en Hojuelas 500g,3929,21,Andrea,82509
+2024-01-17,Leche Alquería 1L,4423,23,Andrea,101729
+2024-01-17,Azúcar Mayagüez 1kg,3428,8,Andrea,27424
+2024-01-17,Frijol Cargamanto 500g,5938,3,Laura,17814
+2024-01-17,Arroz Diana X 1 Libra,2388,21,Laura,50148
+2024-01-17,Pan Integral Bimbo 460g,7326,16,Laura,117216
+2024-01-17,Avena en Hojuelas 500g,3929,14,Laura,55006
+2024-01-17,Leche Alquería 1L,4423,14,Laura,61922
+2024-01-17,Azúcar Mayagüez 1kg,3428,17,Laura,58276
+2024-01-17,Frijol Cargamanto 500g,5938,4,Ramiro,23752
+2024-01-17,Arroz Diana X 1 Libra,2388,27,Ramiro,64476
+2024-01-17,Pan Integral Bimbo 460g,7326,11,Ramiro,80586
+2024-01-17,Avena en Hojuelas 500g,3929,19,Ramiro,74651
+2024-01-17,Leche Alquería 1L,4423,10,Ramiro,44230
+2024-01-17,Azúcar Mayagüez 1kg,3428,23,Ramiro,78844
+2024-01-18,Frijol Cargamanto 500g,5938,8,Carlos,47504
+2024-01-18,Arroz Diana X 1 Libra,2388,13,Carlos,31044
+2024-01-18,Pan Integral Bimbo 460g,7326,8,Carlos,58608
+2024-01-18,Avena en Hojuelas 500g,3929,29,Carlos,113941
+2024-01-18,Leche Alquería 1L,4423,9,Carlos,39807
+2024-01-18,Azúcar Mayagüez 1kg,3428,8,Carlos,27424
+2024-01-18,Frijol Cargamanto 500g,5938,8,Andrea,47504
+2024-01-18,Arroz Diana X 1 Libra,2388,1,Andrea,2388
+2024-01-18,Pan Integral Bimbo 460g,7326,2,Andrea,14652
+2024-01-18,Avena en Hojuelas 500g,3929,19,Andrea,74651
+2024-01-18,Leche Alquería 1L,4423,4,Andrea,17692
+2024-01-18,Azúcar Mayagüez 1kg,3428,6,Andrea,20568
+2024-01-18,Frijol Cargamanto 500g,5938,14,Laura,83132
+2024-01-18,Arroz Diana X 1 Libra,2388,4,Laura,9552
+2024-01-18,Pan Integral Bimbo 460g,7326,19,Laura,139194
+2024-01-18,Avena en Hojuelas 500g,3929,28,Laura,110012
+2024-01-18,Leche Alquería 1L,4423,6,Laura,26538
+2024-01-18,Azúcar Mayagüez 1kg,3428,9,Laura,30852
+2024-01-18,Frijol Cargamanto 500g,5938,10,Ramiro,59380
+2024-01-18,Arroz Diana X 1 Libra,2388,26,Ramiro,62088
+2024-01-18,Pan Integral Bimbo 460g,7326,28,Ramiro,205128
+2024-01-18,Avena en Hojuelas 500g,3929,7,Ramiro,27503
+2024-01-18,Leche Alquería 1L,4423,5,Ramiro,22115
+2024-01-18,Azúcar Mayagüez 1kg,3428,15,Ramiro,51420
+2024-01-19,Frijol Cargamanto 500g,5938,6,Carlos,35628
+2024-01-19,Arroz Diana X 1 Libra,2388,6,Carlos,14328
+2024-01-19,Pan Integral Bimbo 460g,7326,12,Carlos,87912
+2024-01-19,Avena en Hojuelas 500g,3929,14,Carlos,55006
+2024-01-19,Leche Alquería 1L,4423,20,Carlos,88460
+2024-01-19,Azúcar Mayagüez 1kg,3428,16,Carlos,54848
+2024-01-19,Frijol Cargamanto 500g,5938,22,Andrea,130636
+2024-01-19,Arroz Diana X 1 Libra,2388,9,Andrea,21492
+2024-01-19,Pan Integral Bimbo 460g,7326,10,Andrea,73260
+2024-01-19,Avena en Hojuelas 500g,3929,23,Andrea,90367
+2024-01-19,Leche Alquería 1L,4423,16,Andrea,70768
+2024-01-19,Azúcar Mayagüez 1kg,3428,18,Andrea,61704
+2024-01-19,Frijol Cargamanto 500g,5938,9,Laura,53442
+2024-01-19,Arroz Diana X 1 Libra,2388,27,Laura,64476
+2024-01-19,Pan Integral Bimbo 460g,7326,26,Laura,190476
+2024-01-19,Avena en Hojuelas 500g,3929,23,Laura,90367
+2024-01-19,Leche Alquería 1L,4423,16,Laura,70768
+2024-01-19,Azúcar Mayagüez 1kg,3428,15,Laura,51420
+2024-01-19,Frijol Cargamanto 500g,5938,15,Ramiro,89070
+2024-01-19,Arroz Diana X 1 Libra,2388,18,Ramiro,42984
+2024-01-19,Pan Integral Bimbo 460g,7326,2,Ramiro,14652
+2024-01-19,Avena en Hojuelas 500g,3929,27,Ramiro,106083
+2024-01-19,Leche Alquería 1L,4423,16,Ramiro,70768
+2024-01-19,Azúcar Mayagüez 1kg,3428,21,Ramiro,71988
+2024-01-20,Frijol Cargamanto 500g,5938,1,Carlos,5938
+2024-01-20,Arroz Diana X 1 Libra,2388,4,Carlos,9552
+2024-01-20,Pan Integral Bimbo 460g,7326,28,Carlos,205128
+2024-01-20,Avena en Hojuelas 500g,3929,22,Carlos,86438
+2024-01-20,Leche Alquería 1L,4423,24,Carlos,106152
+2024-01-20,Azúcar Mayagüez 1kg,3428,23,Carlos,78844
+2024-01-20,Frijol Cargamanto 500g,5938,1,Andrea,5938
+2024-01-20,Arroz Diana X 1 Libra,2388,27,Andrea,64476
+2024-01-20,Pan Integral Bimbo 460g,7326,29,Andrea,212454
+2024-01-20,Avena en Hojuelas 500g,3929,14,Andrea,55006
+2024-01-20,Leche Alquería 1L,4423,10,Andrea,44230
+2024-01-20,Azúcar Mayagüez 1kg,3428,11,Andrea,37708
+2024-01-20,Frijol Cargamanto 500g,5938,16,Laura,95008
+2024-01-20,Arroz Diana X 1 Libra,2388,23,Laura,54924
+2024-01-20,Pan Integral Bimbo 460g,7326,19,Laura,139194
+2024-01-20,Avena en Hojuelas 500g,3929,24,Laura,94296
+2024-01-20,Leche Alquería 1L,4423,18,Laura,79614
+2024-01-20,Azúcar Mayagüez 1kg,3428,26,Laura,89128
+2024-01-20,Frijol Cargamanto 500g,5938,27,Ramiro,160326
+2024-01-20,Arroz Diana X 1 Libra,2388,14,Ramiro,33432
+2024-01-20,Pan Integral Bimbo 460g,7326,4,Ramiro,29304
+2024-01-20,Avena en Hojuelas 500g,3929,24,Ramiro,94296
+2024-01-20,Leche Alquería 1L,4423,4,Ramiro,17692
+2024-01-20,Azúcar Mayagüez 1kg,3428,14,Ramiro,47992
+2024-01-21,Frijol Cargamanto 500g,5938,7,Carlos,41566
+2024-01-21,Arroz Diana X 1 Libra,2388,13,Carlos,31044
+2024-01-21,Pan Integral Bimbo 460g,7326,3,Carlos,21978
+2024-01-21,Avena en Hojuelas 500g,3929,14,Carlos,55006
+2024-01-21,Leche Alquería 1L,4423,19,Carlos,84037
+2024-01-21,Azúcar Mayagüez 1kg,3428,9,Carlos,30852
+2024-01-21,Frijol Cargamanto 500g,5938,11,Andrea,65318
+2024-01-21,Arroz Diana X 1 Libra,2388,27,Andrea,64476
+2024-01-21,Pan Integral Bimbo 460g,7326,6,Andrea,43956
+2024-01-21,Avena en Hojuelas 500g,3929,17,Andrea,66793
+2024-01-21,Leche Alquería 1L,4423,2,Andrea,8846
+2024-01-21,Azúcar Mayagüez 1kg,3428,16,Andrea,54848
+2024-01-21,Frijol Cargamanto 500g,5938,28,Laura,166264
 2024-01-21,Arroz Diana X 1 Libra,2388,2,Laura,4776
-2024-01-21,Pan Integral Bimbo 460g,7577,3,Laura,22731
-2024-01-21,Avena en Hojuelas 500g,3985,21,Laura,83685
-2024-01-21,Leche Alquería 1L,4508,17,Laura,76636
-2024-01-21,Azúcar Mayagüez 1kg,3269,12,Laura,39228
-2024-01-21,Frijol Cargamanto 500g,5636,9,Ramiro,50724
-2024-01-21,Arroz Diana X 1 Libra,2447,14,Ramiro,34258
-2024-01-21,Pan Integral Bimbo 460g,7350,19,Ramiro,139650
-2024-01-21,Avena en Hojuelas 500g,3938,8,Ramiro,31504
-2024-01-21,Leche Alquería 1L,4169,5,Ramiro,20845
-2024-01-21,Azúcar Mayagüez 1kg,3263,14,Ramiro,45682
-2024-01-22,Frijol Cargamanto 500g,5740,5,Carlos,28700
-2024-01-22,Arroz Diana X 1 Libra,2331,11,Carlos,25641
-2024-01-22,Pan Integral Bimbo 460g,8056,11,Carlos,88616
-2024-01-22,Avena en Hojuelas 500g,3904,21,Carlos,81984
-2024-01-22,Leche Alquería 1L,4511,20,Carlos,90220
-2024-01-22,Azúcar Mayagüez 1kg,3172,1,Carlos,3172
-2024-01-22,Frijol Cargamanto 500g,6024,22,Andrea,132528
-2024-01-22,Arroz Diana X 1 Libra,2283,27,Andrea,61641
-2024-01-22,Pan Integral Bimbo 460g,7963,14,Andrea,111482
-2024-01-22,Avena en Hojuelas 500g,3766,3,Andrea,11298
+2024-01-21,Pan Integral Bimbo 460g,7326,3,Laura,21978
+2024-01-21,Avena en Hojuelas 500g,3929,21,Laura,82509
+2024-01-21,Leche Alquería 1L,4423,17,Laura,75191
+2024-01-21,Azúcar Mayagüez 1kg,3428,12,Laura,41136
+2024-01-21,Frijol Cargamanto 500g,5938,9,Ramiro,53442
+2024-01-21,Arroz Diana X 1 Libra,2388,14,Ramiro,33432
+2024-01-21,Pan Integral Bimbo 460g,7326,19,Ramiro,139194
+2024-01-21,Avena en Hojuelas 500g,3929,8,Ramiro,31432
+2024-01-21,Leche Alquería 1L,4423,5,Ramiro,22115
+2024-01-21,Azúcar Mayagüez 1kg,3428,14,Ramiro,47992
+2024-01-22,Frijol Cargamanto 500g,5938,5,Carlos,29690
+2024-01-22,Arroz Diana X 1 Libra,2388,11,Carlos,26268
+2024-01-22,Pan Integral Bimbo 460g,7326,11,Carlos,80586
+2024-01-22,Avena en Hojuelas 500g,3929,21,Carlos,82509
+2024-01-22,Leche Alquería 1L,4423,20,Carlos,88460
+2024-01-22,Azúcar Mayagüez 1kg,3428,1,Carlos,3428
+2024-01-22,Frijol Cargamanto 500g,5938,22,Andrea,130636
+2024-01-22,Arroz Diana X 1 Libra,2388,27,Andrea,64476
+2024-01-22,Pan Integral Bimbo 460g,7326,14,Andrea,102564
+2024-01-22,Avena en Hojuelas 500g,3929,3,Andrea,11787
 2024-01-22,Leche Alquería 1L,4423,1,Andrea,4423
-2024-01-22,Azúcar Mayagüez 1kg,3231,8,Andrea,25848
-2024-01-22,Frijol Cargamanto 500g,5869,22,Laura,129118
-2024-01-22,Arroz Diana X 1 Libra,2280,2,Laura,4560
-2024-01-22,Pan Integral Bimbo 460g,7445,28,Laura,208460
-2024-01-22,Avena en Hojuelas 500g,4013,13,Laura,52169
-2024-01-22,Leche Alquería 1L,4552,2,Laura,9104
-2024-01-22,Azúcar Mayagüez 1kg,3373,14,Laura,47222
-2024-01-22,Frijol Cargamanto 500g,6052,23,Ramiro,139196
-2024-01-22,Arroz Diana X 1 Libra,2294,5,Ramiro,11470
-2024-01-22,Pan Integral Bimbo 460g,7769,1,Ramiro,7769
-2024-01-22,Avena en Hojuelas 500g,3947,29,Ramiro,114463
-2024-01-22,Leche Alquería 1L,4433,22,Ramiro,97526
-2024-01-22,Azúcar Mayagüez 1kg,3479,19,Ramiro,66101
-2024-01-23,Frijol Cargamanto 500g,6060,25,Carlos,151500
-2024-01-23,Arroz Diana X 1 Libra,2403,10,Carlos,24030
-2024-01-23,Pan Integral Bimbo 460g,7482,14,Carlos,104748
-2024-01-23,Avena en Hojuelas 500g,4053,24,Carlos,97272
-2024-01-23,Leche Alquería 1L,4317,25,Carlos,107925
-2024-01-23,Azúcar Mayagüez 1kg,3210,18,Carlos,57780
-2024-01-23,Frijol Cargamanto 500g,6141,20,Andrea,122820
-2024-01-23,Arroz Diana X 1 Libra,2504,15,Andrea,37560
-2024-01-23,Pan Integral Bimbo 460g,7548,24,Andrea,181152
-2024-01-23,Avena en Hojuelas 500g,3793,14,Andrea,53102
-2024-01-23,Leche Alquería 1L,4235,26,Andrea,110110
-2024-01-23,Azúcar Mayagüez 1kg,3237,6,Andrea,19422
-2024-01-23,Frijol Cargamanto 500g,5965,25,Laura,149125
-2024-01-23,Arroz Diana X 1 Libra,2467,25,Laura,61675
-2024-01-23,Pan Integral Bimbo 460g,7864,13,Laura,102232
-2024-01-23,Avena en Hojuelas 500g,3764,2,Laura,7528
-2024-01-23,Leche Alquería 1L,4221,14,Laura,59094
-2024-01-23,Azúcar Mayagüez 1kg,3346,29,Laura,97034
-2024-01-23,Frijol Cargamanto 500g,6093,2,Ramiro,12186
-2024-01-23,Arroz Diana X 1 Libra,2435,7,Ramiro,17045
-2024-01-23,Pan Integral Bimbo 460g,7535,18,Ramiro,135630
-2024-01-23,Avena en Hojuelas 500g,3755,9,Ramiro,33795
-2024-01-23,Leche Alquería 1L,4432,29,Ramiro,128528
-2024-01-23,Azúcar Mayagüez 1kg,3439,1,Ramiro,3439
-2024-01-24,Frijol Cargamanto 500g,5846,15,Carlos,87690
-2024-01-24,Arroz Diana X 1 Libra,2464,18,Carlos,44352
-2024-01-24,Pan Integral Bimbo 460g,7738,21,Carlos,162498
-2024-01-24,Avena en Hojuelas 500g,4053,2,Carlos,8106
-2024-01-24,Leche Alquería 1L,4299,29,Carlos,124671
-2024-01-24,Azúcar Mayagüez 1kg,3417,13,Carlos,44421
-2024-01-24,Frijol Cargamanto 500g,6126,25,Andrea,153150
-2024-01-24,Arroz Diana X 1 Libra,2301,12,Andrea,27612
-2024-01-24,Pan Integral Bimbo 460g,7379,26,Andrea,191854
-2024-01-24,Avena en Hojuelas 500g,3863,2,Andrea,7726
-2024-01-24,Leche Alquería 1L,4183,11,Andrea,46013
-2024-01-24,Azúcar Mayagüez 1kg,3363,20,Andrea,67260
-2024-01-24,Frijol Cargamanto 500g,5874,15,Laura,88110
-2024-01-24,Arroz Diana X 1 Libra,2460,6,Laura,14760
-2024-01-24,Pan Integral Bimbo 460g,7714,18,Laura,138852
-2024-01-24,Avena en Hojuelas 500g,4028,26,Laura,104728
-2024-01-24,Leche Alquería 1L,4192,7,Laura,29344
-2024-01-24,Azúcar Mayagüez 1kg,3290,18,Laura,59220
-2024-01-24,Frijol Cargamanto 500g,5721,11,Ramiro,62931
-2024-01-24,Arroz Diana X 1 Libra,2327,8,Ramiro,18616
-2024-01-24,Pan Integral Bimbo 460g,7715,21,Ramiro,162015
-2024-01-24,Avena en Hojuelas 500g,3994,1,Ramiro,3994
-2024-01-24,Leche Alquería 1L,4580,21,Ramiro,96180
-2024-01-24,Azúcar Mayagüez 1kg,3221,17,Ramiro,54757
-2024-01-25,Frijol Cargamanto 500g,5689,13,Carlos,73957
-2024-01-25,Arroz Diana X 1 Libra,2427,10,Carlos,24270
-2024-01-25,Pan Integral Bimbo 460g,7734,18,Carlos,139212
-2024-01-25,Avena en Hojuelas 500g,3906,9,Carlos,35154
-2024-01-25,Leche Alquería 1L,4517,6,Carlos,27102
-2024-01-25,Azúcar Mayagüez 1kg,3284,22,Carlos,72248
-2024-01-25,Frijol Cargamanto 500g,6132,1,Andrea,6132
-2024-01-25,Arroz Diana X 1 Libra,2344,17,Andrea,39848
-2024-01-25,Pan Integral Bimbo 460g,8003,5,Andrea,40015
-2024-01-25,Avena en Hojuelas 500g,3746,1,Andrea,3746
-2024-01-25,Leche Alquería 1L,4170,7,Andrea,29190
-2024-01-25,Azúcar Mayagüez 1kg,3416,15,Andrea,51240
-2024-01-25,Frijol Cargamanto 500g,5710,2,Laura,11420
-2024-01-25,Arroz Diana X 1 Libra,2319,25,Laura,57975
-2024-01-25,Pan Integral Bimbo 460g,7421,4,Laura,29684
-2024-01-25,Avena en Hojuelas 500g,3913,13,Laura,50869
-2024-01-25,Leche Alquería 1L,4171,7,Laura,29197
-2024-01-25,Azúcar Mayagüez 1kg,3260,23,Laura,74980
-2024-01-25,Frijol Cargamanto 500g,5641,12,Ramiro,67692
-2024-01-25,Arroz Diana X 1 Libra,2481,24,Ramiro,59544
-2024-01-25,Pan Integral Bimbo 460g,7379,11,Ramiro,81169
-2024-01-25,Avena en Hojuelas 500g,3743,22,Ramiro,82346
-2024-01-25,Leche Alquería 1L,4324,20,Ramiro,86480
-2024-01-25,Azúcar Mayagüez 1kg,3319,7,Ramiro,23233
-2024-01-26,Frijol Cargamanto 500g,6046,13,Carlos,78598
-2024-01-26,Arroz Diana X 1 Libra,2356,11,Carlos,25916
-2024-01-26,Pan Integral Bimbo 460g,7908,4,Carlos,31632
-2024-01-26,Avena en Hojuelas 500g,4058,5,Carlos,20290
-2024-01-26,Leche Alquería 1L,4288,21,Carlos,90048
-2024-01-26,Azúcar Mayagüez 1kg,3240,29,Carlos,93960
-2024-01-26,Frijol Cargamanto 500g,5612,3,Andrea,16836
-2024-01-26,Arroz Diana X 1 Libra,2446,19,Andrea,46474
-2024-01-26,Pan Integral Bimbo 460g,7371,2,Andrea,14742
-2024-01-26,Avena en Hojuelas 500g,3803,7,Andrea,26621
-2024-01-26,Leche Alquería 1L,4380,18,Andrea,78840
-2024-01-26,Azúcar Mayagüez 1kg,3374,26,Andrea,87724
-2024-01-26,Frijol Cargamanto 500g,5669,1,Laura,5669
-2024-01-26,Arroz Diana X 1 Libra,2466,13,Laura,32058
-2024-01-26,Pan Integral Bimbo 460g,7362,1,Laura,7362
-2024-01-26,Avena en Hojuelas 500g,3950,5,Laura,19750
-2024-01-26,Leche Alquería 1L,4465,23,Laura,102695
-2024-01-26,Azúcar Mayagüez 1kg,3297,27,Laura,89019
-2024-01-26,Frijol Cargamanto 500g,5965,26,Ramiro,155090
-2024-01-26,Arroz Diana X 1 Libra,2440,9,Ramiro,21960
-2024-01-26,Pan Integral Bimbo 460g,7707,5,Ramiro,38535
-2024-01-26,Avena en Hojuelas 500g,3880,1,Ramiro,3880
-2024-01-26,Leche Alquería 1L,4597,27,Ramiro,124119
-2024-01-26,Azúcar Mayagüez 1kg,3219,29,Ramiro,93351
-2024-01-27,Frijol Cargamanto 500g,5576,13,Carlos,72488
-2024-01-27,Arroz Diana X 1 Libra,2429,16,Carlos,38864
-2024-01-27,Pan Integral Bimbo 460g,8114,27,Carlos,219078
-2024-01-27,Avena en Hojuelas 500g,3867,23,Carlos,88941
-2024-01-27,Leche Alquería 1L,4198,26,Carlos,109148
-2024-01-27,Azúcar Mayagüez 1kg,3444,18,Carlos,61992
-2024-01-27,Frijol Cargamanto 500g,5703,15,Andrea,85545
-2024-01-27,Arroz Diana X 1 Libra,2465,5,Andrea,12325
-2024-01-27,Pan Integral Bimbo 460g,8097,17,Andrea,137649
-2024-01-27,Avena en Hojuelas 500g,3797,6,Andrea,22782
-2024-01-27,Leche Alquería 1L,4588,29,Andrea,133052
-2024-01-27,Azúcar Mayagüez 1kg,3337,23,Andrea,76751
-2024-01-27,Frijol Cargamanto 500g,5880,26,Laura,152880
-2024-01-27,Arroz Diana X 1 Libra,2383,25,Laura,59575
-2024-01-27,Pan Integral Bimbo 460g,7450,18,Laura,134100
-2024-01-27,Avena en Hojuelas 500g,3764,18,Laura,67752
-2024-01-27,Leche Alquería 1L,4585,21,Laura,96285
-2024-01-27,Azúcar Mayagüez 1kg,3273,6,Laura,19638
-2024-01-27,Frijol Cargamanto 500g,6087,24,Ramiro,146088
-2024-01-27,Arroz Diana X 1 Libra,2345,16,Ramiro,37520
-2024-01-27,Pan Integral Bimbo 460g,7663,6,Ramiro,45978
-2024-01-27,Avena en Hojuelas 500g,3804,18,Ramiro,68472
-2024-01-27,Leche Alquería 1L,4475,27,Ramiro,120825
-2024-01-27,Azúcar Mayagüez 1kg,3158,27,Ramiro,85266
-2024-01-28,Frijol Cargamanto 500g,6051,4,Carlos,24204
-2024-01-28,Arroz Diana X 1 Libra,2308,14,Carlos,32312
-2024-01-28,Pan Integral Bimbo 460g,7532,17,Carlos,128044
-2024-01-28,Avena en Hojuelas 500g,3922,27,Carlos,105894
-2024-01-28,Leche Alquería 1L,4388,9,Carlos,39492
-2024-01-28,Azúcar Mayagüez 1kg,3249,29,Carlos,94221
-2024-01-28,Frijol Cargamanto 500g,5677,27,Andrea,153279
-2024-01-28,Arroz Diana X 1 Libra,2277,11,Andrea,25047
-2024-01-28,Pan Integral Bimbo 460g,7468,10,Andrea,74680
-2024-01-28,Avena en Hojuelas 500g,4003,21,Andrea,84063
-2024-01-28,Leche Alquería 1L,4386,1,Andrea,4386
-2024-01-28,Azúcar Mayagüez 1kg,3311,17,Andrea,56287
-2024-01-28,Frijol Cargamanto 500g,6021,10,Laura,60210
-2024-01-28,Arroz Diana X 1 Libra,2302,8,Laura,18416
-2024-01-28,Pan Integral Bimbo 460g,8025,22,Laura,176550
-2024-01-28,Avena en Hojuelas 500g,3747,12,Laura,44964
-2024-01-28,Leche Alquería 1L,4461,20,Laura,89220
-2024-01-28,Azúcar Mayagüez 1kg,3412,15,Laura,51180
-2024-01-28,Frijol Cargamanto 500g,5758,10,Ramiro,57580
-2024-01-28,Arroz Diana X 1 Libra,2480,17,Ramiro,42160
-2024-01-28,Pan Integral Bimbo 460g,7685,1,Ramiro,7685
-2024-01-28,Avena en Hojuelas 500g,4030,15,Ramiro,60450
-2024-01-28,Leche Alquería 1L,4400,17,Ramiro,74800
-2024-01-28,Azúcar Mayagüez 1kg,3279,28,Ramiro,91812
-2024-01-29,Frijol Cargamanto 500g,5963,6,Carlos,35778
-2024-01-29,Arroz Diana X 1 Libra,2419,3,Carlos,7257
-2024-01-29,Pan Integral Bimbo 460g,7965,13,Carlos,103545
-2024-01-29,Avena en Hojuelas 500g,3773,29,Carlos,109417
-2024-01-29,Leche Alquería 1L,4591,8,Carlos,36728
-2024-01-29,Azúcar Mayagüez 1kg,3337,26,Carlos,86762
-2024-01-29,Frijol Cargamanto 500g,5683,27,Andrea,153441
+2024-01-22,Azúcar Mayagüez 1kg,3428,8,Andrea,27424
+2024-01-22,Frijol Cargamanto 500g,5938,22,Laura,130636
+2024-01-22,Arroz Diana X 1 Libra,2388,2,Laura,4776
+2024-01-22,Pan Integral Bimbo 460g,7326,28,Laura,205128
+2024-01-22,Avena en Hojuelas 500g,3929,13,Laura,51077
+2024-01-22,Leche Alquería 1L,4423,2,Laura,8846
+2024-01-22,Azúcar Mayagüez 1kg,3428,14,Laura,47992
+2024-01-22,Frijol Cargamanto 500g,5938,23,Ramiro,136574
+2024-01-22,Arroz Diana X 1 Libra,2388,5,Ramiro,11940
+2024-01-22,Pan Integral Bimbo 460g,7326,1,Ramiro,7326
+2024-01-22,Avena en Hojuelas 500g,3929,29,Ramiro,113941
+2024-01-22,Leche Alquería 1L,4423,22,Ramiro,97306
+2024-01-22,Azúcar Mayagüez 1kg,3428,19,Ramiro,65132
+2024-01-23,Frijol Cargamanto 500g,5938,25,Carlos,148450
+2024-01-23,Arroz Diana X 1 Libra,2388,10,Carlos,23880
+2024-01-23,Pan Integral Bimbo 460g,7326,14,Carlos,102564
+2024-01-23,Avena en Hojuelas 500g,3929,24,Carlos,94296
+2024-01-23,Leche Alquería 1L,4423,25,Carlos,110575
+2024-01-23,Azúcar Mayagüez 1kg,3428,18,Carlos,61704
+2024-01-23,Frijol Cargamanto 500g,5938,20,Andrea,118760
+2024-01-23,Arroz Diana X 1 Libra,2388,15,Andrea,35820
+2024-01-23,Pan Integral Bimbo 460g,7326,24,Andrea,175824
+2024-01-23,Avena en Hojuelas 500g,3929,14,Andrea,55006
+2024-01-23,Leche Alquería 1L,4423,26,Andrea,114998
+2024-01-23,Azúcar Mayagüez 1kg,3428,6,Andrea,20568
+2024-01-23,Frijol Cargamanto 500g,5938,25,Laura,148450
+2024-01-23,Arroz Diana X 1 Libra,2388,25,Laura,59700
+2024-01-23,Pan Integral Bimbo 460g,7326,13,Laura,95238
+2024-01-23,Avena en Hojuelas 500g,3929,2,Laura,7858
+2024-01-23,Leche Alquería 1L,4423,14,Laura,61922
+2024-01-23,Azúcar Mayagüez 1kg,3428,29,Laura,99412
+2024-01-23,Frijol Cargamanto 500g,5938,2,Ramiro,11876
+2024-01-23,Arroz Diana X 1 Libra,2388,7,Ramiro,16716
+2024-01-23,Pan Integral Bimbo 460g,7326,18,Ramiro,131868
+2024-01-23,Avena en Hojuelas 500g,3929,9,Ramiro,35361
+2024-01-23,Leche Alquería 1L,4423,29,Ramiro,128267
+2024-01-23,Azúcar Mayagüez 1kg,3428,1,Ramiro,3428
+2024-01-24,Frijol Cargamanto 500g,5938,15,Carlos,89070
+2024-01-24,Arroz Diana X 1 Libra,2388,18,Carlos,42984
+2024-01-24,Pan Integral Bimbo 460g,7326,21,Carlos,153846
+2024-01-24,Avena en Hojuelas 500g,3929,2,Carlos,7858
+2024-01-24,Leche Alquería 1L,4423,29,Carlos,128267
+2024-01-24,Azúcar Mayagüez 1kg,3428,13,Carlos,44564
+2024-01-24,Frijol Cargamanto 500g,5938,25,Andrea,148450
+2024-01-24,Arroz Diana X 1 Libra,2388,12,Andrea,28656
+2024-01-24,Pan Integral Bimbo 460g,7326,26,Andrea,190476
+2024-01-24,Avena en Hojuelas 500g,3929,2,Andrea,7858
+2024-01-24,Leche Alquería 1L,4423,11,Andrea,48653
+2024-01-24,Azúcar Mayagüez 1kg,3428,20,Andrea,68560
+2024-01-24,Frijol Cargamanto 500g,5938,15,Laura,89070
+2024-01-24,Arroz Diana X 1 Libra,2388,6,Laura,14328
+2024-01-24,Pan Integral Bimbo 460g,7326,18,Laura,131868
+2024-01-24,Avena en Hojuelas 500g,3929,26,Laura,102154
+2024-01-24,Leche Alquería 1L,4423,7,Laura,30961
+2024-01-24,Azúcar Mayagüez 1kg,3428,18,Laura,61704
+2024-01-24,Frijol Cargamanto 500g,5938,11,Ramiro,65318
+2024-01-24,Arroz Diana X 1 Libra,2388,8,Ramiro,19104
+2024-01-24,Pan Integral Bimbo 460g,7326,21,Ramiro,153846
+2024-01-24,Avena en Hojuelas 500g,3929,1,Ramiro,3929
+2024-01-24,Leche Alquería 1L,4423,21,Ramiro,92883
+2024-01-24,Azúcar Mayagüez 1kg,3428,17,Ramiro,58276
+2024-01-25,Frijol Cargamanto 500g,5938,13,Carlos,77194
+2024-01-25,Arroz Diana X 1 Libra,2388,10,Carlos,23880
+2024-01-25,Pan Integral Bimbo 460g,7326,18,Carlos,131868
+2024-01-25,Avena en Hojuelas 500g,3929,9,Carlos,35361
+2024-01-25,Leche Alquería 1L,4423,6,Carlos,26538
+2024-01-25,Azúcar Mayagüez 1kg,3428,22,Carlos,75416
+2024-01-25,Frijol Cargamanto 500g,5938,1,Andrea,5938
+2024-01-25,Arroz Diana X 1 Libra,2388,17,Andrea,40596
+2024-01-25,Pan Integral Bimbo 460g,7326,5,Andrea,36630
+2024-01-25,Avena en Hojuelas 500g,3929,1,Andrea,3929
+2024-01-25,Leche Alquería 1L,4423,7,Andrea,30961
+2024-01-25,Azúcar Mayagüez 1kg,3428,15,Andrea,51420
+2024-01-25,Frijol Cargamanto 500g,5938,2,Laura,11876
+2024-01-25,Arroz Diana X 1 Libra,2388,25,Laura,59700
+2024-01-25,Pan Integral Bimbo 460g,7326,4,Laura,29304
+2024-01-25,Avena en Hojuelas 500g,3929,13,Laura,51077
+2024-01-25,Leche Alquería 1L,4423,7,Laura,30961
+2024-01-25,Azúcar Mayagüez 1kg,3428,23,Laura,78844
+2024-01-25,Frijol Cargamanto 500g,5938,12,Ramiro,71256
+2024-01-25,Arroz Diana X 1 Libra,2388,24,Ramiro,57312
+2024-01-25,Pan Integral Bimbo 460g,7326,11,Ramiro,80586
+2024-01-25,Avena en Hojuelas 500g,3929,22,Ramiro,86438
+2024-01-25,Leche Alquería 1L,4423,20,Ramiro,88460
+2024-01-25,Azúcar Mayagüez 1kg,3428,7,Ramiro,23996
+2024-01-26,Frijol Cargamanto 500g,5938,13,Carlos,77194
+2024-01-26,Arroz Diana X 1 Libra,2388,11,Carlos,26268
+2024-01-26,Pan Integral Bimbo 460g,7326,4,Carlos,29304
+2024-01-26,Avena en Hojuelas 500g,3929,5,Carlos,19645
+2024-01-26,Leche Alquería 1L,4423,21,Carlos,92883
+2024-01-26,Azúcar Mayagüez 1kg,3428,29,Carlos,99412
+2024-01-26,Frijol Cargamanto 500g,5938,3,Andrea,17814
+2024-01-26,Arroz Diana X 1 Libra,2388,19,Andrea,45372
+2024-01-26,Pan Integral Bimbo 460g,7326,2,Andrea,14652
+2024-01-26,Avena en Hojuelas 500g,3929,7,Andrea,27503
+2024-01-26,Leche Alquería 1L,4423,18,Andrea,79614
+2024-01-26,Azúcar Mayagüez 1kg,3428,26,Andrea,89128
+2024-01-26,Frijol Cargamanto 500g,5938,1,Laura,5938
+2024-01-26,Arroz Diana X 1 Libra,2388,13,Laura,31044
+2024-01-26,Pan Integral Bimbo 460g,7326,1,Laura,7326
+2024-01-26,Avena en Hojuelas 500g,3929,5,Laura,19645
+2024-01-26,Leche Alquería 1L,4423,23,Laura,101729
+2024-01-26,Azúcar Mayagüez 1kg,3428,27,Laura,92556
+2024-01-26,Frijol Cargamanto 500g,5938,26,Ramiro,154388
+2024-01-26,Arroz Diana X 1 Libra,2388,9,Ramiro,21492
+2024-01-26,Pan Integral Bimbo 460g,7326,5,Ramiro,36630
+2024-01-26,Avena en Hojuelas 500g,3929,1,Ramiro,3929
+2024-01-26,Leche Alquería 1L,4423,27,Ramiro,119421
+2024-01-26,Azúcar Mayagüez 1kg,3428,29,Ramiro,99412
+2024-01-27,Frijol Cargamanto 500g,5938,13,Carlos,77194
+2024-01-27,Arroz Diana X 1 Libra,2388,16,Carlos,38208
+2024-01-27,Pan Integral Bimbo 460g,7326,27,Carlos,197802
+2024-01-27,Avena en Hojuelas 500g,3929,23,Carlos,90367
+2024-01-27,Leche Alquería 1L,4423,26,Carlos,114998
+2024-01-27,Azúcar Mayagüez 1kg,3428,18,Carlos,61704
+2024-01-27,Frijol Cargamanto 500g,5938,15,Andrea,89070
+2024-01-27,Arroz Diana X 1 Libra,2388,5,Andrea,11940
+2024-01-27,Pan Integral Bimbo 460g,7326,17,Andrea,124542
+2024-01-27,Avena en Hojuelas 500g,3929,6,Andrea,23574
+2024-01-27,Leche Alquería 1L,4423,29,Andrea,128267
+2024-01-27,Azúcar Mayagüez 1kg,3428,23,Andrea,78844
+2024-01-27,Frijol Cargamanto 500g,5938,26,Laura,154388
+2024-01-27,Arroz Diana X 1 Libra,2388,25,Laura,59700
+2024-01-27,Pan Integral Bimbo 460g,7326,18,Laura,131868
+2024-01-27,Avena en Hojuelas 500g,3929,18,Laura,70722
+2024-01-27,Leche Alquería 1L,4423,21,Laura,92883
+2024-01-27,Azúcar Mayagüez 1kg,3428,6,Laura,20568
+2024-01-27,Frijol Cargamanto 500g,5938,24,Ramiro,142512
+2024-01-27,Arroz Diana X 1 Libra,2388,16,Ramiro,38208
+2024-01-27,Pan Integral Bimbo 460g,7326,6,Ramiro,43956
+2024-01-27,Avena en Hojuelas 500g,3929,18,Ramiro,70722
+2024-01-27,Leche Alquería 1L,4423,27,Ramiro,119421
+2024-01-27,Azúcar Mayagüez 1kg,3428,27,Ramiro,92556
+2024-01-28,Frijol Cargamanto 500g,5938,4,Carlos,23752
+2024-01-28,Arroz Diana X 1 Libra,2388,14,Carlos,33432
+2024-01-28,Pan Integral Bimbo 460g,7326,17,Carlos,124542
+2024-01-28,Avena en Hojuelas 500g,3929,27,Carlos,106083
+2024-01-28,Leche Alquería 1L,4423,9,Carlos,39807
+2024-01-28,Azúcar Mayagüez 1kg,3428,29,Carlos,99412
+2024-01-28,Frijol Cargamanto 500g,5938,27,Andrea,160326
+2024-01-28,Arroz Diana X 1 Libra,2388,11,Andrea,26268
+2024-01-28,Pan Integral Bimbo 460g,7326,10,Andrea,73260
+2024-01-28,Avena en Hojuelas 500g,3929,21,Andrea,82509
+2024-01-28,Leche Alquería 1L,4423,1,Andrea,4423
+2024-01-28,Azúcar Mayagüez 1kg,3428,17,Andrea,58276
+2024-01-28,Frijol Cargamanto 500g,5938,10,Laura,59380
+2024-01-28,Arroz Diana X 1 Libra,2388,8,Laura,19104
+2024-01-28,Pan Integral Bimbo 460g,7326,22,Laura,161172
+2024-01-28,Avena en Hojuelas 500g,3929,12,Laura,47148
+2024-01-28,Leche Alquería 1L,4423,20,Laura,88460
+2024-01-28,Azúcar Mayagüez 1kg,3428,15,Laura,51420
+2024-01-28,Frijol Cargamanto 500g,5938,10,Ramiro,59380
+2024-01-28,Arroz Diana X 1 Libra,2388,17,Ramiro,40596
+2024-01-28,Pan Integral Bimbo 460g,7326,1,Ramiro,7326
+2024-01-28,Avena en Hojuelas 500g,3929,15,Ramiro,58935
+2024-01-28,Leche Alquería 1L,4423,17,Ramiro,75191
+2024-01-28,Azúcar Mayagüez 1kg,3428,28,Ramiro,95984
+2024-01-29,Frijol Cargamanto 500g,5938,6,Carlos,35628
+2024-01-29,Arroz Diana X 1 Libra,2388,3,Carlos,7164
+2024-01-29,Pan Integral Bimbo 460g,7326,13,Carlos,95238
+2024-01-29,Avena en Hojuelas 500g,3929,29,Carlos,113941
+2024-01-29,Leche Alquería 1L,4423,8,Carlos,35384
+2024-01-29,Azúcar Mayagüez 1kg,3428,26,Carlos,89128
+2024-01-29,Frijol Cargamanto 500g,5938,27,Andrea,160326
 2024-01-29,Arroz Diana X 1 Libra,2388,24,Andrea,57312
-2024-01-29,Pan Integral Bimbo 460g,7972,2,Andrea,15944
-2024-01-29,Avena en Hojuelas 500g,3943,2,Andrea,7886
-2024-01-29,Leche Alquería 1L,4593,15,Andrea,68895
-2024-01-29,Azúcar Mayagüez 1kg,3338,22,Andrea,73436
-2024-01-29,Frijol Cargamanto 500g,5764,6,Laura,34584
-2024-01-29,Arroz Diana X 1 Libra,2394,15,Laura,35910
-2024-01-29,Pan Integral Bimbo 460g,7684,21,Laura,161364
-2024-01-29,Avena en Hojuelas 500g,4050,24,Laura,97200
-2024-01-29,Leche Alquería 1L,4430,3,Laura,13290
-2024-01-29,Azúcar Mayagüez 1kg,3378,3,Laura,10134
-2024-01-29,Frijol Cargamanto 500g,5693,15,Ramiro,85395
-2024-01-29,Arroz Diana X 1 Libra,2467,23,Ramiro,56741
-2024-01-29,Pan Integral Bimbo 460g,7860,14,Ramiro,110040
-2024-01-29,Avena en Hojuelas 500g,4107,20,Ramiro,82140
-2024-01-29,Leche Alquería 1L,4347,26,Ramiro,113022
-2024-01-29,Azúcar Mayagüez 1kg,3181,27,Ramiro,85887
-2024-01-30,Frijol Cargamanto 500g,5993,11,Carlos,65923
-2024-01-30,Arroz Diana X 1 Libra,2426,18,Carlos,43668
-2024-01-30,Pan Integral Bimbo 460g,7376,1,Carlos,7376
-2024-01-30,Avena en Hojuelas 500g,3799,3,Carlos,11397
-2024-01-30,Leche Alquería 1L,4284,7,Carlos,29988
-2024-01-30,Azúcar Mayagüez 1kg,3395,2,Carlos,6790
-2024-01-30,Frijol Cargamanto 500g,5614,3,Andrea,16842
-2024-01-30,Arroz Diana X 1 Libra,2466,2,Andrea,4932
-2024-01-30,Pan Integral Bimbo 460g,7861,14,Andrea,110054
-2024-01-30,Avena en Hojuelas 500g,4077,2,Andrea,8154
-2024-01-30,Leche Alquería 1L,4584,2,Andrea,9168
-2024-01-30,Azúcar Mayagüez 1kg,3347,25,Andrea,83675
-2024-01-30,Frijol Cargamanto 500g,5641,28,Laura,157948
-2024-01-30,Arroz Diana X 1 Libra,2421,8,Laura,19368
-2024-01-30,Pan Integral Bimbo 460g,7383,25,Laura,184575
-2024-01-30,Avena en Hojuelas 500g,3939,8,Laura,31512
-2024-01-30,Leche Alquería 1L,4435,27,Laura,119745
-2024-01-30,Azúcar Mayagüez 1kg,3257,1,Laura,3257
-2024-01-30,Frijol Cargamanto 500g,6046,18,Ramiro,108828
-2024-01-30,Arroz Diana X 1 Libra,2506,23,Ramiro,57638
-2024-01-30,Pan Integral Bimbo 460g,7921,28,Ramiro,221788
-2024-01-30,Avena en Hojuelas 500g,4036,27,Ramiro,108972
-2024-01-30,Leche Alquería 1L,4373,23,Ramiro,100579
-2024-01-30,Azúcar Mayagüez 1kg,3319,15,Ramiro,49785
-2024-01-31,Frijol Cargamanto 500g,5563,21,Carlos,116823
-2024-01-31,Arroz Diana X 1 Libra,2363,13,Carlos,30719
-2024-01-31,Pan Integral Bimbo 460g,7507,4,Carlos,30028
-2024-01-31,Avena en Hojuelas 500g,3983,18,Carlos,71694
-2024-01-31,Leche Alquería 1L,4478,25,Carlos,111950
-2024-01-31,Azúcar Mayagüez 1kg,3302,8,Carlos,26416
-2024-01-31,Frijol Cargamanto 500g,5638,3,Andrea,16914
-2024-01-31,Arroz Diana X 1 Libra,2314,10,Andrea,23140
-2024-01-31,Pan Integral Bimbo 460g,8005,9,Andrea,72045
-2024-01-31,Avena en Hojuelas 500g,3860,26,Andrea,100360
-2024-01-31,Leche Alquería 1L,4343,1,Andrea,4343
-2024-01-31,Azúcar Mayagüez 1kg,3426,11,Andrea,37686
-2024-01-31,Frijol Cargamanto 500g,5704,15,Laura,85560
-2024-01-31,Arroz Diana X 1 Libra,2273,6,Laura,13638
-2024-01-31,Pan Integral Bimbo 460g,7777,12,Laura,93324
-2024-01-31,Avena en Hojuelas 500g,4122,21,Laura,86562
-2024-01-31,Leche Alquería 1L,4346,10,Laura,43460
-2024-01-31,Azúcar Mayagüez 1kg,3476,15,Laura,52140
-2024-01-31,Frijol Cargamanto 500g,5598,12,Ramiro,67176
-2024-01-31,Arroz Diana X 1 Libra,2361,20,Ramiro,47220
-2024-01-31,Pan Integral Bimbo 460g,7772,5,Ramiro,38860
-2024-01-31,Avena en Hojuelas 500g,4042,13,Ramiro,52546
-2024-01-31,Leche Alquería 1L,4287,23,Ramiro,98601
-2024-01-31,Azúcar Mayagüez 1kg,3370,27,Ramiro,90990
+2024-01-29,Pan Integral Bimbo 460g,7326,2,Andrea,14652
+2024-01-29,Avena en Hojuelas 500g,3929,2,Andrea,7858
+2024-01-29,Leche Alquería 1L,4423,15,Andrea,66345
+2024-01-29,Azúcar Mayagüez 1kg,3428,22,Andrea,75416
+2024-01-29,Frijol Cargamanto 500g,5938,6,Laura,35628
+2024-01-29,Arroz Diana X 1 Libra,2388,15,Laura,35820
+2024-01-29,Pan Integral Bimbo 460g,7326,21,Laura,153846
+2024-01-29,Avena en Hojuelas 500g,3929,24,Laura,94296
+2024-01-29,Leche Alquería 1L,4423,3,Laura,13269
+2024-01-29,Azúcar Mayagüez 1kg,3428,3,Laura,10284
+2024-01-29,Frijol Cargamanto 500g,5938,15,Ramiro,89070
+2024-01-29,Arroz Diana X 1 Libra,2388,23,Ramiro,54924
+2024-01-29,Pan Integral Bimbo 460g,7326,14,Ramiro,102564
+2024-01-29,Avena en Hojuelas 500g,3929,20,Ramiro,78580
+2024-01-29,Leche Alquería 1L,4423,26,Ramiro,114998
+2024-01-29,Azúcar Mayagüez 1kg,3428,27,Ramiro,92556
+2024-01-30,Frijol Cargamanto 500g,5938,11,Carlos,65318
+2024-01-30,Arroz Diana X 1 Libra,2388,18,Carlos,42984
+2024-01-30,Pan Integral Bimbo 460g,7326,1,Carlos,7326
+2024-01-30,Avena en Hojuelas 500g,3929,3,Carlos,11787
+2024-01-30,Leche Alquería 1L,4423,7,Carlos,30961
+2024-01-30,Azúcar Mayagüez 1kg,3428,2,Carlos,6856
+2024-01-30,Frijol Cargamanto 500g,5938,3,Andrea,17814
+2024-01-30,Arroz Diana X 1 Libra,2388,2,Andrea,4776
+2024-01-30,Pan Integral Bimbo 460g,7326,14,Andrea,102564
+2024-01-30,Avena en Hojuelas 500g,3929,2,Andrea,7858
+2024-01-30,Leche Alquería 1L,4423,2,Andrea,8846
+2024-01-30,Azúcar Mayagüez 1kg,3428,25,Andrea,85700
+2024-01-30,Frijol Cargamanto 500g,5938,28,Laura,166264
+2024-01-30,Arroz Diana X 1 Libra,2388,8,Laura,19104
+2024-01-30,Pan Integral Bimbo 460g,7326,25,Laura,183150
+2024-01-30,Avena en Hojuelas 500g,3929,8,Laura,31432
+2024-01-30,Leche Alquería 1L,4423,27,Laura,119421
+2024-01-30,Azúcar Mayagüez 1kg,3428,1,Laura,3428
+2024-01-30,Frijol Cargamanto 500g,5938,18,Ramiro,106884
+2024-01-30,Arroz Diana X 1 Libra,2388,23,Ramiro,54924
+2024-01-30,Pan Integral Bimbo 460g,7326,28,Ramiro,205128
+2024-01-30,Avena en Hojuelas 500g,3929,27,Ramiro,106083
+2024-01-30,Leche Alquería 1L,4423,23,Ramiro,101729
+2024-01-30,Azúcar Mayagüez 1kg,3428,15,Ramiro,51420
+2024-01-31,Frijol Cargamanto 500g,5938,21,Carlos,124698
+2024-01-31,Arroz Diana X 1 Libra,2388,13,Carlos,31044
+2024-01-31,Pan Integral Bimbo 460g,7326,4,Carlos,29304
+2024-01-31,Avena en Hojuelas 500g,3929,18,Carlos,70722
+2024-01-31,Leche Alquería 1L,4423,25,Carlos,110575
+2024-01-31,Azúcar Mayagüez 1kg,3428,8,Carlos,27424
+2024-01-31,Frijol Cargamanto 500g,5938,3,Andrea,17814
+2024-01-31,Arroz Diana X 1 Libra,2388,10,Andrea,23880
+2024-01-31,Pan Integral Bimbo 460g,7326,9,Andrea,65934
+2024-01-31,Avena en Hojuelas 500g,3929,26,Andrea,102154
+2024-01-31,Leche Alquería 1L,4423,1,Andrea,4423
+2024-01-31,Azúcar Mayagüez 1kg,3428,11,Andrea,37708
+2024-01-31,Frijol Cargamanto 500g,5938,15,Laura,89070
+2024-01-31,Arroz Diana X 1 Libra,2388,6,Laura,14328
+2024-01-31,Pan Integral Bimbo 460g,7326,12,Laura,87912
+2024-01-31,Avena en Hojuelas 500g,3929,21,Laura,82509
+2024-01-31,Leche Alquería 1L,4423,10,Laura,44230
+2024-01-31,Azúcar Mayagüez 1kg,3428,15,Laura,51420
+2024-01-31,Frijol Cargamanto 500g,5938,12,Ramiro,71256
+2024-01-31,Arroz Diana X 1 Libra,2388,20,Ramiro,47760
+2024-01-31,Pan Integral Bimbo 460g,7326,5,Ramiro,36630
+2024-01-31,Avena en Hojuelas 500g,3929,13,Ramiro,51077
+2024-01-31,Leche Alquería 1L,4423,23,Ramiro,101729
+2024-01-31,Azúcar Mayagüez 1kg,3428,27,Ramiro,92556
